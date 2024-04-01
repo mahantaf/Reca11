@@ -1,0 +1,56 @@
+issue_title: Inconsistent Magnification Scaling
+description: Kostantino experienced odd behavior with the magnification scaling, where the content did not scale back as expected after zooming in. This inconsistency in responsiveness could lead to confusion and difficulty in navigating the site.
+timestamps: '00:07:07.784 --> 00:07:22.503'
+
+issue_title: Poor Contrast with Inverted Colors
+description: Kostantino noted that certain elements, such as a fluorescent green color, did not contrast well against the background when using inverted colors. This lack of contrast can make it difficult for users with visual impairments to distinguish content.
+timestamps: '00:09:32.714 --> 00:09:44.934'
+
+issue_title: Pixelated Text in Videos
+description: Text within videos appeared pixelated to Kostantino, which caused the text to vibrate and become difficult to read. This issue can hinder the understanding of video content for users who rely on magnification.
+timestamps: '00:10:01.894 --> 00:10:16.544'
+
+issue_title: Non-Inverted Images with Classic Invert Setting
+description: Kostantino expected all content to invert with the classic invert setting, but some images did not invert. This inconsistency can be disorienting and does not respect the user's accessibility settings.
+timestamps: '00:12:41.724 --> 00:13:07.014'
+
+issue_title: Lack of Clear Outlines and Focus Indicators
+description: The outlines and focus indicators on the site were not clear enough for Kostantino, making it difficult to identify actionable content. He suggested that lines should be dashed or bolder to improve visibility.
+timestamps: '00:13:20.444 --> 00:13:53.903'
+
+issue_title: Low Contrast Badge Element
+description: Kostantino had difficulty seeing a badge element, which appeared to be gray on gray, making it nearly invisible to him. This low contrast can prevent users from recognizing achievements or important notifications.
+timestamps: '00:15:51.494 --> 00:16:38.213'
+
+issue_title: Inaccessible Content at Certain Magnification Levels
+description: Kostantino reported that certain elements, such as the left navigation menu and tabs like 'dashboard' and 'courses', become inaccessible or disappear when magnified to higher levels. This creates challenges in accessing important parts of the application.
+timestamps: '00:21:43.174 --> 00:21:49.913', '00:22:00.104 --> 00:22:10.264', '00:22:56.974 --> 00:23:07.553', '00:24:10.344 --> 00:24:18.413'
+
+issue_title: Hover Text Responsiveness Issues
+description: Kostantino experienced issues with hover text not responding properly when dealing with longer words or phrases. This issue makes it difficult to read and understand content, as users have to start at the bottom and scroll up to the top, then go down again, which is a poor user experience.
+timestamps: '00:26:33.704 --> 00:27:02.133', '00:27:20.204 --> 00:27:45.724', '00:28:07.114 --> 00:28:14.823'
+
+issue_title: Low Contrast and Grey Content
+description: Kostantino mentioned that there is too much grey content which can be difficult to perceive, especially for users who rely on high contrast to distinguish between different elements on the page.
+timestamps: '00:28:52.084 --> 00:28:55.164'
+
+issue_title: Hover Text and Touch Point Scaling Issues
+description: The hover text and touch points do not scale properly when magnified, causing confusion as elements like buttons overlap with other sections, such as the 'digital accessibility' section.
+timestamps: '00:29:27.364 --> 00:29:34.884'
+
+issue_title: Navigation and Layout Challenges
+description: Kostantino experiences difficulty with navigation due to excessive scrolling and having to find his place again after overscrolling. He suggests that the layout could be improved to make it easier to navigate for magnification users.
+timestamps: '00:29:42.384 --> 00:30:02.594'
+
+issue_title: Insufficient Text Contrast and Size
+description: Kostantino points out that the text for different sections could be larger and bolder, and that contrast involves more than just color, suggesting improvements in line spacing, character spacing, word spacing, font selection, font size, boldness, weight, and italics.
+timestamps: '00:30:32.644 --> 00:31:09.403'
+
+issue_title: Video Responsiveness and Scaling Issues
+description: Kostantino finds that the video player does not scale responsively, making it challenging to interact with elements like the 'meet your instructor' section.
+timestamps: '00:34:16.714 --> 00:34:44.143'
+
+issue_title: Content Accessibility in Navigation Menu
+description: Kostantino notes that parts of the navigation menu, such as active courses, journey, and bookmarks, disappear at high magnification levels, suggesting that these elements should remain accessible regardless of zoom level.
+timestamps: '00:40:31.734 --> 00:40:49.813'
+

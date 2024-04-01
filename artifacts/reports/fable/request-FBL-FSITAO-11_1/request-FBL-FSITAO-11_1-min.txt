@@ -1,0 +1,8 @@
+issue_title: Inconsistent Heading Structure
+description: Palmer encountered issues with inconsistent heading structures, which made it difficult to navigate to the desired content using headings. This was particularly evident when trying to locate the bookmarking functionality, as it was not immediately apparent under the headings and required extensive navigation to find.
+timestamps: '00:01:21.970 --> 00:01:27.150', '00:03:58.670 --> 00:04:05.640', '00:05:11.860 --> 00:05:22.850', '00:07:22.400 --> 00:07:31.050'
+
+issue_title: Focus Management After Button Activation
+description: After Palmer activated the 'Add activity to bookmarks' button, there was no spoken feedback or focus change to indicate the action had been completed. This lack of feedback left Palmer unsure if the bookmark was added successfully.
+timestamps: '00:06:51.790 --> 00:06:53.760', '00:07:10.240 --> 00:07:12.180'
+

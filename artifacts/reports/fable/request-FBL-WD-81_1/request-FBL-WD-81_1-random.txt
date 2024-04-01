@@ -1,0 +1,40 @@
+issue_title: Voice commands not working as expected
+description: The user attempted to use voice commands such as 'click products' and 'click table engage' to navigate the application, but the commands did not seem to work as expected. The user had to repeat commands multiple times, indicating that the voice recognition software was not properly interacting with the application's links and buttons.
+timestamps: '00:24:04.290 --> 00:24:05.649', '00:24:06.600 --> 00:24:08.039', '00:24:46.690 --> 00:24:48.039', '00:24:50.330 --> 00:24:52.840', '00:24:58.070 --> 00:24:59.350', '00:25:00.590 --> 00:25:02.420', '00:25:04.340 --> 00:25:06.290', '00:25:10.960 --> 00:25:12.350'
+
+issue_title: Difficulty with drop-down menus
+description: The user expressed uncertainty about how to access drop-down menus using their assistive technology, Dragon NaturallySpeaking. This indicates a potential issue with the software's compatibility with voice navigation commands for interacting with complex UI elements like drop-downs.
+timestamps: '00:26:47.470 --> 00:26:49.000', '00:26:50.930 --> 00:26:52.859'
+
+issue_title: Issues with logged-in state tooltip
+description: The user experienced confusion with the logged-in state tooltip. When the user said 'click brand', the tooltip opened instead of performing the expected action, which was likely to navigate to the user's dashboard or profile.
+timestamps: '00:28:26.730 --> 00:28:29.919'
+
+issue_title: Voice commands not recognized
+description: The user experienced difficulty with the voice command 'show links' not being recognized by the software, which is an issue as it prevents efficient navigation using Dragon NaturallySpeaking.
+timestamps: '00:28:47.440 --> 00:28:48.499', '00:28:49.520 --> 00:28:51.070', '00:28:53.410 --> 00:28:54.740', '00:28:57.100 --> 00:28:58.480'
+
+issue_title: Inconsistent voice command recognition
+description: The user reported that the command to log out only worked on the second attempt, indicating inconsistent behavior of voice command recognition which can lead to confusion and inefficiency.
+timestamps: '00:29:00.670 --> 00:29:02.059', '00:29:07.570 --> 00:29:08.990', '00:29:10.240 --> 00:29:21.649'
+
+issue_title: Difficulty dictating into form fields
+description: The user had trouble dictating directly into form fields, which is a significant barrier for users who rely on voice navigation and input.
+timestamps: '00:32:22.310 --> 00:32:35.120', '00:32:41.450 --> 00:32:42.570', '00:32:43.580 --> 00:32:45.090', '00:32:46.720 --> 00:32:48.070', '00:32:49.650 --> 00:32:56.830'
+
+issue_title: Hover-only menus problematic
+description: The user expressed frustration with hover-only menus that disappear when the cursor is moved away, which is problematic for users who cannot use a mouse and rely on alternative navigation methods.
+timestamps: '00:34:44.199 --> 00:35:02.600'
+
+issue_title: Difficulty with Voice Commands and Mouse Grid
+description: The user, Brand, reports difficulty using voice commands and the mouse grid, which may take a few seconds to come up or be slower than expected. This indicates an issue with the responsiveness and efficiency of alternative navigation methods, which can be frustrating and time-consuming for users relying on assistive technology like Dragon NaturallySpeaking.
+timestamps: '00:36:15.040 --> 00:36:21.049', '00:36:21.280 --> 00:36:23.600'
+
+issue_title: Small Interactive Elements
+description: Brand mentions that sometimes it's very hard to focus right on small interactive elements, although he can get pretty precise. This suggests that the target areas for certain controls may be too small, which can be challenging for users with motor disabilities or those using alternative navigation methods.
+timestamps: '00:37:40.600 --> 00:37:50.239'
+
+issue_title: Inability to Perform Drag Actions
+description: Brand expresses that the software does not work well with drag actions, which are not possible using voice commands. This limitation significantly affects users who rely on voice navigation, as they cannot perform actions that require click-and-drag interactions.
+timestamps: '00:38:54.730 --> 00:39:03.020', '00:39:03.300 --> 00:39:05.650'
+

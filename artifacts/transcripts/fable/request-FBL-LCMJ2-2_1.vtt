@@ -1,0 +1,1757 @@
+WEBVTT
+
+1
+00:00:14.570 --> 00:00:15.580
+Cindy: Hmm.
+
+2
+00:00:23.040 --> 00:00:34.789
+Cindy: Hi! This is Cindy Fable, Tester, and I am going to be looking at the fables Upskill module here for getting started on web development.
+
+3
+00:00:34.800 --> 00:00:49.730
+Cindy: I'm. Currently on a PC. Running windows 10, and i'm just using the built in magnification. So windows Mag and i'll be zooming in and out to navigate through today's course.
+
+4
+00:00:51.270 --> 00:00:59.019
+Cindy: So I am currently on, just logged in to the course.
+
+5
+00:00:59.250 --> 00:01:02.310
+Cindy: and i'm going to just look
+
+6
+00:01:02.600 --> 00:01:08.700
+Cindy: kind of orienting myself to the images here at the top.
+
+7
+00:01:08.770 --> 00:01:11.660
+Cindy: and let's see.
+
+8
+00:01:12.170 --> 00:01:15.939
+Cindy: just trying to find kind of the
+
+9
+00:01:16.210 --> 00:01:19.570
+Cindy: title to make sure i'm where I need to be in.
+
+10
+00:01:20.600 --> 00:01:22.229
+Cindy: Let's see.
+
+11
+00:01:27.630 --> 00:01:31.429
+Cindy: So I see up here the heading courses.
+
+12
+00:01:31.620 --> 00:01:34.100
+Cindy: and
+
+13
+00:01:38.770 --> 00:01:41.160
+Cindy: it looks like these are
+
+14
+00:01:42.540 --> 00:01:49.239
+Cindy: Here we go the name of the course. It took me just a second to kind of navigate
+
+15
+00:01:49.300 --> 00:01:58.540
+Cindy: to to Orient. How the layout is that they're not really numbered, or anything like that. But I did find the title here
+
+16
+00:01:58.810 --> 00:02:04.580
+Cindy: getting started with web development. So i'm going to go ahead and select that.
+
+17
+00:02:04.710 --> 00:02:07.049
+Cindy: I think Yes.
+
+18
+00:02:07.880 --> 00:02:18.739
+Cindy: all right. And i'm gonna zoom out to kinda orient myself to the page here to see the layout overall and where I need to zoom in
+
+19
+00:02:19.910 --> 00:02:26.399
+Cindy: all right. So getting started with web development that's good confirmation on where I need to be
+
+20
+00:02:26.590 --> 00:02:33.540
+Cindy: and course details. And for this paragraph I'm just gonna kinda get my
+
+21
+00:02:33.950 --> 00:02:36.339
+Cindy: reader.
+
+22
+00:02:36.490 --> 00:02:48.229
+Cindy: This course will provide information on web development and general accessibility of the developer experience. Whether you are new to the programs and technologies describe you, or a long time veteran of the same, the course offers content for you. This course has an emphasis on learning for people who use screen readers.
+
+23
+00:02:48.660 --> 00:02:50.100
+Okay.
+
+24
+00:02:51.910 --> 00:02:52.910
+and
+
+25
+00:02:54.290 --> 00:03:05.300
+Cindy: let's see. So here has a list of the modules. So I believe the first. The the next task is to go through the activities for the first module.
+
+26
+00:03:05.890 --> 00:03:08.960
+Cindy: So let's see time spent.
+
+27
+00:03:09.060 --> 00:03:12.790
+Cindy: So it looks like this is a breakdown
+
+28
+00:03:13.190 --> 00:03:15.060
+Cindy: of the modules.
+
+29
+00:03:15.780 --> 00:03:21.179
+Cindy: I don't see a list of the modules that just looks like this is a heading Here.
+
+30
+00:03:22.440 --> 00:03:24.550
+Here we go. Okay.
+
+31
+00:03:25.150 --> 00:03:34.089
+Cindy: So continue learning. I'm assuming that's where I need to go. Don't see any other Major Buttons standing out to me.
+
+32
+00:03:34.350 --> 00:03:36.510
+Cindy: So just click to that.
+
+33
+00:03:36.990 --> 00:03:39.400
+Cindy: And let's see.
+
+34
+00:03:42.300 --> 00:03:45.819
+Cindy: Okay, we have course Outline.
+
+35
+00:03:46.980 --> 00:03:51.030
+Cindy: Okay, Getting started with web development.
+
+36
+00:03:54.590 --> 00:03:57.680
+Cindy: Okay, I'm: Assuming this is the first
+
+37
+00:04:00.490 --> 00:04:03.110
+Cindy: Okay, introduction.
+
+38
+00:04:12.900 --> 00:04:13.530
+Cindy: What?
+
+39
+00:04:14.920 --> 00:04:16.390
+Cindy: Okay? So I'm: assuming.
+
+40
+00:04:16.550 --> 00:04:18.119
+No, wait.
+
+41
+00:04:18.339 --> 00:04:19.690
+Cindy: I'm: assuming
+
+42
+00:04:19.779 --> 00:04:20.680
+Cindy: this.
+
+43
+00:04:23.940 --> 00:04:26.270
+Cindy: i'm just trying to figure out like
+
+44
+00:04:26.410 --> 00:04:29.039
+Cindy: intuitively like, Where do I go from here
+
+45
+00:04:29.360 --> 00:04:32.540
+Cindy: with these check marks here, I'm assuming that's
+
+46
+00:04:33.120 --> 00:04:38.620
+Cindy: saying is completed. And now this section here is highlighted.
+
+47
+00:04:39.110 --> 00:04:42.280
+Cindy: So let's see.
+
+48
+00:04:42.340 --> 00:04:44.480
+Cindy: Do I click on it?
+
+49
+00:04:49.640 --> 00:04:55.209
+Cindy: Okay, that didn't do anything i'm just trying to figure out. Where do I go from here.
+
+50
+00:04:57.250 --> 00:05:00.450
+Cindy: So naming versus code.
+
+51
+00:05:00.570 --> 00:05:08.520
+Cindy: It looks like it's clickable, and it looks like it's the next thing in the list. But they all have these check marks here, some
+
+52
+00:05:08.920 --> 00:05:12.310
+Cindy: slightly confused on
+
+53
+00:05:13.110 --> 00:05:18.469
+Cindy: where and how. I just start and get into the first module.
+
+54
+00:05:24.180 --> 00:05:28.870
+Cindy: Since those all have checkmarks. I'm: like, okay, Are they completed?
+
+55
+00:05:33.040 --> 00:05:34.430
+Cindy: Hmm.
+
+56
+00:05:36.930 --> 00:05:40.019
+Cindy: Oh, wait. Okay, okay.
+
+57
+00:05:41.400 --> 00:05:43.899
+Cindy: It's been a while since I've looked at one of these. Okay.
+
+58
+00:05:44.290 --> 00:05:50.790
+Cindy: Now I'm: I and now i'm kind of oriented. So i'm over here. It looks like
+
+59
+00:05:51.140 --> 00:05:53.200
+Cindy: under the image.
+
+60
+00:05:53.880 --> 00:06:02.410
+Cindy: Is this the module visual cdo code known as mes go? There's a free language, open source. Text editor by Microsoft that is available for windows Linux and Mac OS:
+
+61
+00:06:02.760 --> 00:06:10.070
+Cindy: Okay. So I'm: I'm: assuming we are now into the module over here on the right side.
+
+62
+00:06:11.940 --> 00:06:13.520
+Cindy: Okay.
+
+63
+00:06:13.620 --> 00:06:14.190
+Yeah.
+
+64
+00:06:16.450 --> 00:06:18.359
+Cindy: Okay. Visit the
+
+65
+00:06:18.670 --> 00:06:19.640
+Cindy: Hmm.
+
+66
+00:06:22.270 --> 00:06:23.110
+Cindy: Oops.
+
+67
+00:06:33.280 --> 00:06:34.380
+Cindy: All right.
+
+68
+00:06:34.980 --> 00:06:39.750
+Cindy: So I'm: assuming these are the activities in the in the module that it's
+
+69
+00:06:42.170 --> 00:06:46.069
+Cindy: It's referring to. So going through
+
+70
+00:06:46.730 --> 00:06:49.700
+Cindy: the list here. Visit.
+
+71
+00:06:51.470 --> 00:06:53.270
+Cindy: Okay.
+
+72
+00:06:58.530 --> 00:06:59.260
+Okay.
+
+73
+00:07:03.240 --> 00:07:04.840
+Cindy: alright.
+
+74
+00:07:07.550 --> 00:07:12.850
+Cindy: download for windows. All right, let me. I'm gonna go and look at
+
+75
+00:07:15.250 --> 00:07:20.539
+Cindy: Step Number 2, just to see if there's anything i'm supposed to do.
+
+76
+00:07:22.700 --> 00:07:26.749
+Cindy: Yeah. So it does want me to download.
+
+77
+00:07:33.660 --> 00:07:34.810
+Cindy: Okay.
+
+78
+00:07:35.580 --> 00:07:39.189
+Cindy: then, after I download it, what do I need to do?
+
+79
+00:07:39.800 --> 00:07:43.609
+Cindy: Okay, Follow the windows download link.
+
+80
+00:07:52.710 --> 00:07:58.600
+Cindy: Alright, so we'll just pretend I downloaded that, and then.
+
+81
+00:07:58.730 --> 00:08:03.230
+Cindy: following the instructions, reading through all of the
+
+82
+00:08:03.620 --> 00:08:07.269
+Cindy: the steps. Here.
+
+83
+00:08:09.190 --> 00:08:10.479
+Cindy: once you install the program.
+
+84
+00:08:10.560 --> 00:08:14.020
+Cindy: If you have installed any software previously, most of the prompts will be familiar to you.
+
+85
+00:08:14.050 --> 00:08:19.510
+Cindy: They include accepting the user license, choosing where to install the program, the program at it, doing your start, menu, and such.
+
+86
+00:08:19.530 --> 00:08:23.760
+Cindy: There are a few items likely new to you unless you have previous experience with the software development program.
+
+87
+00:08:23.820 --> 00:08:36.929
+Cindy: When you reach the screen asking about creating an icon on your desktop, you will also find several options talking about adding options to Windows explorer and registering the program for supporting file types. Please make it faster to open files directly in visual studio code and choosing all the default for purposes of trying things out is perfectly acceptable.
+
+88
+00:08:38.049 --> 00:08:40.900
+Cindy: All right, Lots and lots of
+
+89
+00:08:41.230 --> 00:08:43.510
+Cindy: words here.
+
+90
+00:08:43.809 --> 00:08:55.040
+Cindy: Okay. Some detailed steps here. But I really do like that. They are numbered. So it's really easy to kind of keep track of the sequence of steps.
+
+91
+00:08:55.390 --> 00:09:02.290
+Cindy: So i'm just gonna keep going down. And then let's see. We come to a new heading here
+
+92
+00:09:03.550 --> 00:09:06.460
+Cindy: settings and help
+
+93
+00:09:07.460 --> 00:09:09.000
+Cindy: our
+
+94
+00:09:09.020 --> 00:09:09.600
+Yeah.
+
+95
+00:09:12.680 --> 00:09:26.409
+Cindy: And then i'm going to actually go ahead and invert my screen into dark mode. Hopefully, this doesn't bother, you guys. But when it comes to this much text it gets very strenuous on my eyes.
+
+96
+00:09:26.500 --> 00:09:33.850
+magnified into such a bright white screen. So, going into dark mode really helps.
+
+97
+00:09:33.980 --> 00:09:37.459
+So let's see settings and help. And then
+
+98
+00:09:37.910 --> 00:09:39.300
+Cindy: so
+
+99
+00:09:41.180 --> 00:09:44.919
+Cindy: the dialogue also talks about using control, plus m to it. Just how the tab key behaves when editing.
+
+100
+00:09:44.950 --> 00:09:49.510
+Cindy: using control plus mtugs between inserting a cap character in your code or moving to the next focus of the item to get to
+
+101
+00:09:49.680 --> 00:09:52.930
+Cindy: Okay. And then
+
+102
+00:09:54.500 --> 00:10:00.070
+Cindy: continuing on down the module that you can press control plus agent any point for accessibility help.
+
+103
+00:10:00.110 --> 00:10:03.490
+Cindy: This will open the web page in your browser with more information on using visual studio code.
+
+104
+00:10:03.690 --> 00:10:05.740
+Cindy: Great. Okay?
+
+105
+00:10:06.000 --> 00:10:12.369
+Cindy: And then I like that that like the button contrast changing here
+
+106
+00:10:13.240 --> 00:10:16.759
+Cindy: new activity. Next activity.
+
+107
+00:10:17.820 --> 00:10:21.830
+Cindy: Okay, I'm: assuming this is still all part of the next module.
+
+108
+00:10:22.990 --> 00:10:29.729
+Cindy: It looks like we have a video here. I see a play button that happened to jump out at me. I'm gonna
+
+109
+00:10:30.240 --> 00:10:33.620
+Cindy: cool back out of my invert here.
+
+110
+00:10:36.250 --> 00:10:36.830
+Cindy: 8.
+
+111
+00:10:41.330 --> 00:10:45.360
+Cindy: Okay. I was gonna pretend I I saw that video that
+
+112
+00:10:45.850 --> 00:10:48.539
+Cindy: opened up. Well, and
+
+113
+00:10:49.060 --> 00:10:53.030
+Cindy: it's good. At first I thought it was an image, but I happen to
+
+114
+00:10:53.110 --> 00:10:59.799
+Cindy: see this bar pop up here with that play button there that indicated it was a video to me.
+
+115
+00:11:00.580 --> 00:11:02.979
+Cindy: Let's see. Okay.
+
+116
+00:11:04.400 --> 00:11:09.730
+Cindy: So we just gotta pretend we saw that and keep moving on next
+
+117
+00:11:10.160 --> 00:11:11.460
+Cindy: activity.
+
+118
+00:11:13.360 --> 00:11:14.670
+Okay.
+
+119
+00:11:14.790 --> 00:11:16.779
+Cindy: Okay, I'm: assuming
+
+120
+00:11:18.190 --> 00:11:19.380
+Okay.
+
+121
+00:11:19.450 --> 00:11:24.169
+Cindy: writing code Looks like there's another play button.
+
+122
+00:11:26.590 --> 00:11:29.569
+Cindy: Another video here that played
+
+123
+00:11:29.900 --> 00:11:31.290
+Cindy: Well.
+
+124
+00:11:31.770 --> 00:11:33.440
+Cindy: okay.
+
+125
+00:11:33.660 --> 00:11:38.960
+Cindy: we're just gonna keep moving on to to the next activity.
+
+126
+00:11:40.440 --> 00:11:45.060
+Cindy: Okay, looks like it loaded up and
+
+127
+00:11:47.280 --> 00:11:49.569
+reviewing code.
+
+128
+00:11:49.700 --> 00:11:54.690
+Cindy: And it's another video. I see that play button there.
+
+129
+00:11:55.450 --> 00:11:58.129
+Cindy: Okay, reviewing code that's loaded up.
+
+130
+00:11:58.610 --> 00:12:00.220
+Cindy: Well.
+
+131
+00:12:03.180 --> 00:12:05.180
+Cindy: I see this
+
+132
+00:12:07.770 --> 00:12:08.860
+Cindy: here.
+
+133
+00:12:10.770 --> 00:12:11.800
+Cindy: Hmm.
+
+134
+00:12:11.870 --> 00:12:14.519
+Cindy: Okay, Our next activity.
+
+135
+00:12:17.560 --> 00:12:19.470
+Cindy: And
+
+136
+00:12:19.590 --> 00:12:20.640
+Cindy: hmm.
+
+137
+00:12:20.730 --> 00:12:22.349
+Cindy: This is different.
+
+138
+00:12:32.030 --> 00:12:33.350
+Cindy: Are you on visual studio code?
+
+139
+00:12:33.550 --> 00:12:39.730
+Okay. So it looks like i'm done with the videos.
+
+140
+00:12:41.990 --> 00:12:46.610
+Cindy: And we're into a new section here.
+
+141
+00:12:50.460 --> 00:12:56.900
+Cindy: so it looks like it's kind of going into a new activity of Try it yourself.
+
+142
+00:13:04.130 --> 00:13:11.070
+Cindy: Do all of these steps here which you get our number. So that's good
+
+143
+00:13:11.970 --> 00:13:14.990
+Cindy: and just kind of going through all those steps.
+
+144
+00:13:15.590 --> 00:13:18.300
+Cindy: Let's see. We have a new thing here.
+
+145
+00:13:21.860 --> 00:13:25.769
+Cindy: So creating and writing a web page.
+
+146
+00:13:26.420 --> 00:13:30.799
+Cindy: and it's taking us to more steps here of
+
+147
+00:13:31.190 --> 00:13:33.830
+Cindy: creating a web page.
+
+148
+00:13:34.810 --> 00:13:39.540
+Cindy: Looks like we've got an image here of code
+
+149
+00:13:42.500 --> 00:13:45.319
+under this.
+
+150
+00:13:46.160 --> 00:13:53.190
+Cindy: Okay, so can I come? Oh, good. Okay, it's allowing me to highlight and select it.
+
+151
+00:13:53.580 --> 00:14:10.999
+Cindy: So just pretend I can copy that that seem to be good copy and paste the following text into the file: After you copy and paste the text into your file. Use the open down, hero to review all of the text ensure no lines have run together. Press control plus has to save your file. You'll be prompt.
+
+152
+00:14:11.410 --> 00:14:14.549
+Cindy: We are ready to run the web page
+
+153
+00:14:15.240 --> 00:14:18.769
+Cindy: going through all those steps.
+
+154
+00:14:20.000 --> 00:14:22.300
+Cindy: And
+
+155
+00:14:22.990 --> 00:14:25.480
+Cindy: okay, we're gonna continue on
+
+156
+00:14:25.780 --> 00:14:26.409
+just a
+
+157
+00:14:27.420 --> 00:14:29.070
+Cindy: and
+
+158
+00:14:31.110 --> 00:14:34.239
+visual studio code. It's like when you develop your tools i'll be the range. It
+
+159
+00:14:34.600 --> 00:14:40.100
+Cindy: so it looks like we're going into a whole series of steps and such here.
+
+160
+00:14:40.680 --> 00:14:42.750
+I'm sorry about this.
+
+161
+00:14:42.840 --> 00:14:44.900
+and
+
+162
+00:14:47.450 --> 00:14:49.250
+Cindy: for his control wasn't to create a new file.
+
+163
+00:14:49.320 --> 00:14:57.729
+Cindy: I'll just pretend we're going through more steps here. Press F. 6 wants to move to the stand as far
+
+164
+00:14:59.510 --> 00:15:07.100
+Cindy: Press right here until you read an item that says plain text, this is where you are going to tell regionals. You should be asked to set the language
+
+165
+00:15:07.370 --> 00:15:11.729
+Cindy: just taking us through all of those processes
+
+166
+00:15:12.730 --> 00:15:16.100
+Cindy: Looks like there's lots and lots of steps here.
+
+167
+00:15:18.210 --> 00:15:25.629
+Cindy: And now we're to a new section. It looks like, okay. So visual studio commands.
+
+168
+00:15:27.120 --> 00:15:28.860
+Okay.
+
+169
+00:15:29.870 --> 00:15:32.340
+Cindy: Alright, and
+
+170
+00:15:33.630 --> 00:15:39.040
+Cindy: so we have a more series of steps and code to insert.
+
+171
+00:15:42.550 --> 00:15:49.840
+Cindy: Okay, and then a new thing of moving around visual studio code.
+
+172
+00:15:56.240 --> 00:16:08.790
+Cindy: I like that. It seems to be kind of like very sequential, and going just literally going from section of steps down to the next section of steps.
+
+173
+00:16:08.820 --> 00:16:13.880
+Cindy: So it's one kind of like continuous page, and i'm not hitting, you know.
+
+174
+00:16:14.270 --> 00:16:21.219
+Cindy: next next next too much through all of this, but it's broken up here into this next activity.
+
+175
+00:16:21.590 --> 00:16:28.040
+Cindy: So I liked how to how it just lit. As I was going down the page through these steps.
+
+176
+00:16:28.090 --> 00:16:29.130
+Cindy: I
+
+177
+00:16:29.160 --> 00:16:31.910
+Cindy: automatically run into this
+
+178
+00:16:32.850 --> 00:16:37.299
+Cindy: the control buttons here and can go to the next activity.
+
+179
+00:16:38.830 --> 00:16:43.860
+Cindy: All right, let's see. So introduction.
+
+180
+00:16:44.460 --> 00:16:46.980
+Cindy: Okay. So
+
+181
+00:16:47.800 --> 00:16:55.610
+Cindy: is this the end, or how many more steps in the module? Do we have? I'm not sure.
+
+182
+00:16:56.970 --> 00:17:00.530
+Cindy: I'm wondering that's this list
+
+183
+00:17:00.560 --> 00:17:05.080
+Cindy: over here. And oh, that's nice. Okay, i'm just now i'm kind of getting.
+
+184
+00:17:05.520 --> 00:17:06.730
+Cindy: I think.
+
+185
+00:17:09.589 --> 00:17:26.810
+Cindy: No, I guess it is all part of that I was just trying to figure out. If over here it showed the progress through the module, as i'm going just so can kind of paste just for pacing purposes. But I don't see that that information
+
+186
+00:17:27.160 --> 00:17:42.879
+Cindy: give up is a co-hosting platform for version control and collaboration. It lets you and others working in Internet access. You don't need to know them. Okay. So just continuing on to this activity, I don't that looks like just an image. I don't think it's a video or anything we need to watch.
+
+187
+00:17:43.050 --> 00:17:45.350
+Cindy: So i'm going to continue on.
+
+188
+00:17:46.970 --> 00:17:50.560
+Cindy: And here we go.
+
+189
+00:17:52.090 --> 00:17:53.960
+Cindy: all right.
+
+190
+00:17:56.420 --> 00:18:01.190
+Cindy: Oh, this must be a video. Yeah, okay, here's the play button.
+
+191
+00:18:02.280 --> 00:18:06.119
+Cindy: all right, and that loaded up. Well.
+
+192
+00:18:06.820 --> 00:18:08.290
+Cindy: okay.
+
+193
+00:18:08.830 --> 00:18:15.229
+Cindy: move to the next activity that loads. Well, okay.
+
+194
+00:18:18.910 --> 00:18:20.790
+Cindy: Okay, Desktop
+
+195
+00:18:21.050 --> 00:18:23.820
+Cindy: got another video here that's
+
+196
+00:18:24.000 --> 00:18:26.939
+Cindy: good.
+
+197
+00:18:27.120 --> 00:18:29.579
+Cindy: At this point. I really appreciate
+
+198
+00:18:29.640 --> 00:18:36.609
+Cindy: videos and things like that when there's this much like words and codes and stuff to look at. It's nice to have
+
+199
+00:18:36.720 --> 00:18:40.510
+Cindy: these videos to kind of help break up the module.
+
+200
+00:18:41.380 --> 00:18:45.309
+Cindy: Okay, submitting an issue.
+
+201
+00:18:46.000 --> 00:18:51.059
+Cindy: Okay. So we've got more videos here that
+
+202
+00:18:52.730 --> 00:18:57.040
+Cindy: loaded. Well, okay, we're gonna continue on
+
+203
+00:18:57.230 --> 00:18:58.999
+Cindy: next activity.
+
+204
+00:19:03.450 --> 00:19:06.790
+Cindy: Okay. So here we're into
+
+205
+00:19:06.850 --> 00:19:10.310
+Cindy: more of the text. Let's see. Try it yourself.
+
+206
+00:19:11.690 --> 00:19:12.420
+Cindy: Okay.
+
+207
+00:19:12.690 --> 00:19:15.169
+Cindy: So again we're gonna.
+
+208
+00:19:15.240 --> 00:19:18.210
+Cindy: I guess it's gonna walk us through the process
+
+209
+00:19:18.380 --> 00:19:21.380
+Cindy: of trying it ourselves
+
+210
+00:19:21.500 --> 00:19:25.930
+Cindy: again. The instructions are numbered here. That's great for
+
+211
+00:19:26.460 --> 00:19:31.250
+Cindy: kind of keeping track of the sequence. And here's another section.
+
+212
+00:19:31.870 --> 00:19:33.760
+Cindy: Okay, try to.
+
+213
+00:19:34.300 --> 00:19:34.910
+Nice.
+
+214
+00:19:39.170 --> 00:19:44.729
+Cindy: Okay, we're just going to keep going through these sections of instructions
+
+215
+00:19:44.960 --> 00:19:49.030
+Cindy: to complete the try it yourself portion.
+
+216
+00:19:51.560 --> 00:19:55.550
+Cindy: And again, we just kind of naturally run into the
+
+217
+00:19:56.010 --> 00:20:00.489
+Cindy: and here we can go to the next activity.
+
+218
+00:20:01.020 --> 00:20:04.419
+Cindy: and we are back to some videos.
+
+219
+00:20:04.510 --> 00:20:06.840
+Cindy: So let's see, this is
+
+220
+00:20:07.280 --> 00:20:10.790
+Cindy: okay.
+
+221
+00:20:15.360 --> 00:20:17.910
+Cindy: Okay, it's video
+
+222
+00:20:19.210 --> 00:20:21.229
+Cindy: that
+
+223
+00:20:23.780 --> 00:20:25.530
+Cindy: loaded well
+
+224
+00:20:25.930 --> 00:20:28.620
+Cindy: hit that next activity.
+
+225
+00:20:35.930 --> 00:20:37.060
+Cindy: Okay.
+
+226
+00:20:38.400 --> 00:20:43.050
+Cindy: Just continuing on to this next activity.
+
+227
+00:20:49.310 --> 00:20:50.950
+Cindy: Alright.
+
+228
+00:20:53.310 --> 00:21:03.209
+Cindy: Yeah, okay, All those are going well so far. Oh, this is large and grabbed my attention. Super, quick. Here.
+
+229
+00:21:03.620 --> 00:21:05.800
+Cindy: Okay, let's let's see.
+
+230
+00:21:09.630 --> 00:21:17.070
+Cindy: Alright, Looks like, so right under this video. It's taking us into another section
+
+231
+00:21:17.120 --> 00:21:20.230
+Cindy: of instruction for this
+
+232
+00:21:21.650 --> 00:21:24.359
+Cindy: Microsoft Kinda learn
+
+233
+00:21:28.580 --> 00:21:30.160
+Cindy: learning section.
+
+234
+00:21:36.380 --> 00:21:37.070
+Oh.
+
+235
+00:21:37.380 --> 00:21:49.540
+Cindy: sorry about that. A screen jumped around. You're learning this summer. And throughout Ms this month, by participating in a fun and self-paced technical upstream, challenge, track your progress, using the leader board as you navigate the open source and accessibility, where they found challenges on Microsoft Digital learning Platform
+
+236
+00:21:49.670 --> 00:21:51.110
+Cindy: Alrighty
+
+237
+00:21:52.550 --> 00:21:58.670
+Cindy: an entry into the grand prize drop at a chance to win one of 2 surface laptop studio devices. Well, that sounds nice.
+
+238
+00:21:58.820 --> 00:22:01.890
+Cindy: Okay, we'll go to the next activity.
+
+239
+00:22:04.270 --> 00:22:06.819
+Cindy: So far, so good.
+
+240
+00:22:06.950 --> 00:22:09.180
+Cindy: Okay. Wrapping up.
+
+241
+00:22:10.110 --> 00:22:11.080
+Cindy: That's
+
+242
+00:22:11.520 --> 00:22:17.079
+Cindy: a great indicator that I'm close to the end. This course is just the beginning. If something and what you'd
+
+243
+00:22:17.410 --> 00:22:18.940
+Cindy: all right.
+
+244
+00:22:20.600 --> 00:22:24.109
+Cindy: So it looks like we have another video here
+
+245
+00:22:24.260 --> 00:22:26.050
+Cindy: and
+
+246
+00:22:26.600 --> 00:22:28.830
+Cindy: go to the next activity.
+
+247
+00:22:32.050 --> 00:22:36.069
+Cindy: Okay? And then we're to the about.
+
+248
+00:22:39.600 --> 00:22:40.490
+Cindy: Okay.
+
+249
+00:22:45.920 --> 00:22:51.630
+Cindy: Got an image. Looks like someone holding a phone.
+
+250
+00:22:52.610 --> 00:22:53.880
+Cindy: Okay.
+
+251
+00:22:58.130 --> 00:23:01.110
+Cindy: let's see here.
+
+252
+00:23:02.310 --> 00:23:05.659
+Cindy: Oh, he doesn't want to read this section all of a sudden. Okay?
+
+253
+00:23:08.270 --> 00:23:11.060
+Cindy: Okay. So about the mobile course.
+
+254
+00:23:11.290 --> 00:23:15.450
+So this is one of 3, one of 3. What?
+
+255
+00:23:22.220 --> 00:23:26.150
+Cindy: Okay? It looks like. We have another
+
+256
+00:23:26.470 --> 00:23:29.250
+Cindy: section here
+
+257
+00:23:30.090 --> 00:23:31.820
+Cindy: clickable links.
+
+258
+00:23:31.910 --> 00:23:35.819
+Cindy: I can tell that they're blue and underlined, and they're numbered.
+
+259
+00:23:36.020 --> 00:23:39.959
+Cindy: I'm. Assuming it's a sequence of things to click.
+
+260
+00:23:40.550 --> 00:23:43.280
+Cindy: You can choose the lessons most relevant to your role. And you don't do the course.
+
+261
+00:23:43.840 --> 00:23:44.940
+Okay.
+
+262
+00:23:46.840 --> 00:23:48.330
+Cindy: Alrighty.
+
+263
+00:23:50.350 --> 00:23:53.780
+Cindy: And then Co. Instructor.
+
+264
+00:23:53.990 --> 00:23:56.310
+Cindy: Okay, so this is about the
+
+265
+00:23:56.530 --> 00:23:59.920
+Cindy: instructor. Let's see.
+
+266
+00:24:00.680 --> 00:24:03.490
+Cindy: And then navigating.
+
+267
+00:24:04.600 --> 00:24:10.030
+Cindy: going through all these different sections. This is pretty detailed.
+
+268
+00:24:12.490 --> 00:24:14.269
+Cindy: Okay, getting help
+
+269
+00:24:16.590 --> 00:24:20.069
+Cindy: all right. Next activity.
+
+270
+00:24:24.840 --> 00:24:26.429
+Cindy: This is
+
+271
+00:24:26.860 --> 00:24:31.030
+Cindy: I'm: sure. It probably makes sense to someone who knows stuff about coding
+
+272
+00:24:31.500 --> 00:24:34.139
+Cindy: definitely above my head.
+
+273
+00:24:35.560 --> 00:24:39.730
+Cindy: Okay. So about the Q. A testing course.
+
+274
+00:24:40.960 --> 00:24:43.320
+Cindy: All right. Let's see.
+
+275
+00:24:48.790 --> 00:24:53.349
+Cindy: Okay. And this is about the
+
+276
+00:24:54.020 --> 00:24:58.649
+Cindy: more sequences. So i'm assuming these are like, maybe
+
+277
+00:24:59.390 --> 00:25:09.660
+Cindy: this is all kind of wrapping up, and and I guess introducing maybe the next courses and instructors and such.
+
+278
+00:25:11.490 --> 00:25:16.309
+Then it looks like we're coming up on a course survey.
+
+279
+00:25:17.690 --> 00:25:20.009
+Cindy: The survey will take approximately 4B min to complete.
+
+280
+00:25:20.080 --> 00:25:23.119
+Cindy: Your feedback is very important to us.
+
+281
+00:25:24.500 --> 00:25:30.100
+Cindy: and I I don't want to complete this survey because I didn't actually do the course.
+
+282
+00:25:31.030 --> 00:25:35.650
+Cindy: So i'm just going to keep going through.
+
+283
+00:25:36.410 --> 00:25:37.080
+Cindy: Is it?
+
+284
+00:25:39.670 --> 00:25:42.950
+Cindy: The text here is really faint
+
+285
+00:25:44.040 --> 00:25:46.229
+Cindy: here.
+
+286
+00:25:47.640 --> 00:25:49.419
+Cindy: I usually like
+
+287
+00:25:49.580 --> 00:25:51.210
+Cindy: the
+
+288
+00:25:54.570 --> 00:25:56.330
+Cindy: I usually like.
+
+289
+00:25:56.900 --> 00:25:58.890
+Cindy: Select your answer.
+
+290
+00:26:00.940 --> 00:26:12.939
+Cindy: I I usually like the the instruction to be bolder above the text, the selection box. That's just a personal preference for me only because when it's faded out in that small.
+
+291
+00:26:13.030 --> 00:26:16.569
+Cindy: it's a little bit more difficult, and I straining.
+
+292
+00:26:19.270 --> 00:26:23.149
+Cindy: Oh, these stars pop up! That is helpful.
+
+293
+00:26:24.590 --> 00:26:38.219
+Cindy: I usually don't like this whole star thing. These are large enough that i'm able to do that. But the way my eyes work I i'm constantly looking around, and it's a little difficult for me to count.
+
+294
+00:26:38.330 --> 00:26:41.460
+Cindy: sometimes stars. But the way this is
+
+295
+00:26:41.910 --> 00:26:44.480
+Cindy: visually done and
+
+296
+00:26:44.550 --> 00:26:57.040
+Cindy: highlighted as I scroll across them, makes it a little bit more accessible, but I almost kinda wish it was more of like a number I could click instead of the Star Graphic
+
+297
+00:26:57.490 --> 00:26:59.690
+Cindy: only because
+
+298
+00:26:59.970 --> 00:27:02.709
+Cindy: the Star Graphics are are just
+
+299
+00:27:02.830 --> 00:27:07.729
+Cindy: visually a little bit more difficult for me to identify and read
+
+300
+00:27:08.220 --> 00:27:14.449
+Cindy: as a rating. I prefer more of a new numeral representation there
+
+301
+00:27:18.240 --> 00:27:25.879
+Cindy: and then we. It looks like we have some options to select here for this section of the survey.
+
+302
+00:27:26.110 --> 00:27:34.740
+Cindy: the check boxes, which all look great to me, pretty intuitive here. And then we have a text writing
+
+303
+00:27:35.100 --> 00:27:38.699
+Cindy: a text box here. What does that say again.
+
+304
+00:27:39.230 --> 00:27:44.659
+Cindy: it's so small. I have to really zoom in to see that faint writing inside.
+
+305
+00:27:44.910 --> 00:27:47.699
+Cindy: Enter your answer. Okay.
+
+306
+00:27:52.990 --> 00:27:58.120
+Cindy: and another text box. Enter your answer.
+
+307
+00:27:59.390 --> 00:28:08.000
+Cindy: And so we have a series of those types of questions, and then I guess i'm not sure if we hit, submit, if it will
+
+308
+00:28:08.170 --> 00:28:10.539
+Cindy: let me go through without
+
+309
+00:28:10.680 --> 00:28:17.510
+Cindy: putting in anything it looks like it will not. But if this is the end of this
+
+310
+00:28:17.540 --> 00:28:22.670
+Cindy: first module, I believe one of the instructions was to kind of go over in.
+
+311
+00:28:22.770 --> 00:28:26.899
+Cindy: try to see if I can find my my completion
+
+312
+00:28:29.200 --> 00:28:32.850
+Cindy: part, and I was kind of speaking about that earlier.
+
+313
+00:28:37.900 --> 00:28:40.599
+Cindy: and i'm assuming that's what
+
+314
+00:28:40.700 --> 00:28:43.010
+Cindy: this part is
+
+315
+00:28:43.130 --> 00:28:45.720
+Cindy: over here on the left side.
+
+316
+00:28:48.660 --> 00:28:55.290
+Cindy: So once I create finished the quiz, I am then assuming that I would get like a
+
+317
+00:28:55.420 --> 00:28:57.059
+Cindy: checkmark here.
+
+318
+00:29:00.540 --> 00:29:07.789
+Cindy: And so yeah, I guess this is kind of like walking you through the steps as you complete them.
+
+319
+00:29:09.930 --> 00:29:20.370
+Cindy: having, I think, a numeral to also represent this, because they're not really numb. Like it's not really numbered.
+
+320
+00:29:20.480 --> 00:29:25.519
+Cindy: and as you go down sometimes it's
+
+321
+00:29:26.270 --> 00:29:33.090
+Cindy: the way this layout is the progress as you're going through the module wasn't really like clear
+
+322
+00:29:34.660 --> 00:29:35.360
+Cindy: at
+
+323
+00:29:35.940 --> 00:29:37.810
+Cindy: first.
+
+324
+00:29:39.460 --> 00:29:44.669
+Cindy: I I understand the layout now, and now that I understand this type of layout.
+
+325
+00:29:45.610 --> 00:29:50.069
+Cindy: It's pretty intuitive, but at first it wasn't.
+
+326
+00:29:50.400 --> 00:29:53.630
+Cindy: But I think that's just personal preference, and what you're
+
+327
+00:29:53.730 --> 00:30:00.679
+Cindy: used to seeing and deducing from the layout, and
+
+328
+00:30:00.890 --> 00:30:11.369
+Cindy: I feel like I've seen like a progress bar with like a percentage or a step, 6 of 12 or that type of
+
+329
+00:30:13.760 --> 00:30:16.580
+Cindy: the progress Indicator.
+
+330
+00:30:17.120 --> 00:30:17.730
+Okay.
+
+331
+00:30:18.190 --> 00:30:28.230
+Cindy: this is you just have to scroll through the whole list to sort of conceptually understand how long the list is and where you are on it.
+
+332
+00:30:28.830 --> 00:30:35.049
+Cindy: and and instead of just having that information kind of given to you, and
+
+333
+00:30:35.480 --> 00:30:36.760
+Cindy: a
+
+334
+00:30:36.790 --> 00:30:43.700
+Cindy: number form like you're on 5 of 23 or whatever the case may be.
+
+335
+00:30:44.660 --> 00:30:45.950
+So
+
+336
+00:30:47.190 --> 00:30:48.740
+Cindy: let's see
+
+337
+00:30:50.240 --> 00:30:54.019
+Cindy: if I were able to submit the quiz. Wait! What's this?
+
+338
+00:30:55.990 --> 00:30:59.230
+Cindy: Well, it's given me a next activity Here
+
+339
+00:31:00.350 --> 00:31:02.290
+Cindy: it was this for the quiz
+
+340
+00:31:05.060 --> 00:31:07.809
+Cindy: next activity. Let's try that. See what?
+
+341
+00:31:15.570 --> 00:31:17.610
+Cindy: See what happens here?
+
+342
+00:31:18.870 --> 00:31:20.360
+Cindy: Okay?
+
+343
+00:31:22.000 --> 00:31:23.120
+Cindy: So
+
+344
+00:31:30.740 --> 00:31:33.960
+Cindy: well, we got check marks by all of these.
+
+345
+00:31:34.170 --> 00:31:38.180
+I think that's another thing like when i'm really kind of zoomed into
+
+346
+00:31:38.450 --> 00:31:39.140
+Cindy: like
+
+347
+00:31:39.410 --> 00:31:45.040
+Cindy: like. I remember going through the wrapping up when i'm reading through all these titles, I don't see the check mark
+
+348
+00:31:45.130 --> 00:31:50.410
+Cindy: either in this layout of progress through the module. I
+
+349
+00:31:50.670 --> 00:31:55.610
+Cindy: really have to zoom out or have to scroll over. And then, when i'm looking at the checkmarks.
+
+350
+00:31:55.720 --> 00:32:01.519
+Cindy: what does the checkmark go to? I can't see them both at the same time. If that makes sense.
+
+351
+00:32:01.940 --> 00:32:09.650
+Cindy: Okay, so accessibility quiz, we already looked at that. I think that's what I was trying to hit the submit button on before.
+
+352
+00:32:14.870 --> 00:32:16.630
+Cindy: Yeah, Here.
+
+353
+00:32:16.810 --> 00:32:21.800
+Cindy: start quiz off Here we go. So we haven't even done that yet. Okay, we just did the survey.
+
+354
+00:32:23.800 --> 00:32:24.650
+Cindy: Okay.
+
+355
+00:32:25.370 --> 00:32:29.420
+Cindy: So I'm just going to, I guess. Start the quiz and
+
+356
+00:32:29.670 --> 00:32:32.659
+Cindy: see where that takes us.
+
+357
+00:32:34.390 --> 00:32:35.910
+Cindy: all right.
+
+358
+00:32:36.480 --> 00:32:40.909
+Cindy: Oh, goodness, I'm probably not going to get any of these answers correct.
+
+359
+00:32:41.830 --> 00:32:44.930
+Cindy: Which is, he lets you change whether an element is focused by setting a numeric value.
+
+360
+00:32:45.590 --> 00:32:49.440
+Cindy: Okay? Well, so i'm not sure
+
+361
+00:32:49.500 --> 00:32:50.399
+it
+
+362
+00:32:50.750 --> 00:32:53.090
+Cindy: if we can pause for just a second.
+
+363
+00:32:58.120 --> 00:33:08.720
+Cindy: Okay. So we're looking at this quiz, we're just continuing, and i'm just going to pretend to answer all of these questions Here, finish
+
+364
+00:33:09.460 --> 00:33:13.210
+Cindy: and okay.
+
+365
+00:33:13.380 --> 00:33:14.640
+Cindy: So we have the
+
+366
+00:33:14.750 --> 00:33:22.839
+Cindy: quiz. This looks like a bar image here. Your results one of 2, hey?
+
+367
+00:33:23.350 --> 00:33:26.369
+Cindy: Not bad, considering. I have no idea.
+
+368
+00:33:26.510 --> 00:33:30.569
+Cindy: It looks like we have a retry or
+
+369
+00:33:30.700 --> 00:33:33.909
+Cindy: show solutions.
+
+370
+00:33:33.980 --> 00:33:36.210
+Cindy: It's show solution
+
+371
+00:33:36.840 --> 00:33:37.870
+Cindy: Hex.
+
+372
+00:33:38.070 --> 00:33:42.260
+Cindy: the quiz. Okay, so it looks like we got that one.
+
+373
+00:33:42.420 --> 00:33:43.060
+And
+
+374
+00:33:43.080 --> 00:33:44.370
+Cindy: and
+
+375
+00:33:44.610 --> 00:33:47.969
+Cindy: it was actually false. Okay.
+
+376
+00:33:48.440 --> 00:33:49.860
+Cindy: she's the right.
+
+377
+00:33:51.470 --> 00:33:52.050
+Okay.
+
+378
+00:33:57.220 --> 00:33:59.050
+Here we go.
+
+379
+00:33:59.550 --> 00:34:02.730
+Cindy: continuing on it's gonna
+
+380
+00:34:09.320 --> 00:34:10.620
+Cindy: all right.
+
+381
+00:34:10.940 --> 00:34:14.550
+Cindy: Here's the progress. One of one.
+
+382
+00:34:14.860 --> 00:34:16.000
+Cindy: All right.
+
+383
+00:34:16.389 --> 00:34:19.050
+Cindy: if I hit finish.
+
+384
+00:34:22.610 --> 00:34:26.589
+Cindy: Okay, I'm a little confused. Now let's see. Show
+
+385
+00:34:27.949 --> 00:34:29.129
+Cindy: solution.
+
+386
+00:34:31.340 --> 00:34:33.790
+Cindy: We did that already. Can I finish
+
+387
+00:34:35.900 --> 00:34:38.189
+Cindy: show solutions? Still.
+
+388
+00:34:38.690 --> 00:34:39.799
+Cindy: Oh, there we go.
+
+389
+00:34:40.230 --> 00:34:41.529
+Cindy: Okay, Where are we?
+
+390
+00:34:45.739 --> 00:34:48.349
+Cindy: Okay? So we started with web development.
+
+391
+00:34:49.830 --> 00:34:54.489
+Cindy: Okay, course details. Okay. So this is back to the beginning
+
+392
+00:34:55.739 --> 00:34:57.140
+Cindy: of the course.
+
+393
+00:34:58.960 --> 00:34:59.910
+Cindy: So.
+
+394
+00:35:00.630 --> 00:35:02.700
+Cindy: hey? I guess we're done.
+
+395
+00:35:05.180 --> 00:35:05.959
+Cindy: Okay.
+
+396
+00:35:05.980 --> 00:35:08.890
+This has taken me back to the beginning.
+
+397
+00:35:09.210 --> 00:35:14.640
+Cindy: I bet. So I am assuming everything is done. I don't
+
+398
+00:35:15.870 --> 00:35:17.589
+Cindy: see
+
+399
+00:35:17.890 --> 00:35:19.479
+Cindy: a
+
+400
+00:35:19.670 --> 00:35:26.220
+Cindy: progress bar, or anything, or like completed, or like a I guess, a
+
+401
+00:35:26.270 --> 00:35:31.630
+Cindy: ending landing page. It just sort of took me back to the beginning. Here.
+
+402
+00:35:31.850 --> 00:35:36.740
+Cindy: I'm not sure if that's what is supposed to happen. So i'm kind of left with a
+
+403
+00:35:37.730 --> 00:35:41.459
+Cindy: confused feeling sort of like. I think i'm done
+
+404
+00:35:42.600 --> 00:35:44.120
+Cindy: so all right.
+
+405
+00:35:44.370 --> 00:35:50.899
+Cindy: That's I'm gonna leave it there. Thank you so much for choosing fable. And this concludes: today's task.
+
+406
+00:35:55.250 --> 00:36:02.100
+Cindy: Okay, and just to summarize today's task. I was.
+
+407
+00:36:02.290 --> 00:36:15.669
+Cindy: I really liked the flow of it moving from videos kind of demonstrating and showing all the different steps, and then leading you through the try it yourself sections.
+
+408
+00:36:15.870 --> 00:36:26.869
+Cindy: It looked really detailed. I'm. Assuming those who are capable and able of this level of accessibility web development understood a lot of that.
+
+409
+00:36:26.880 --> 00:36:35.919
+Cindy: It looked like. It was pretty complicated. There were a lot of steps, a lot of things to complete and kind of go through in the processes.
+
+410
+00:36:36.270 --> 00:36:41.330
+Cindy: but I really did like that they were numbered. It really kind of helped, you understand where
+
+411
+00:36:41.450 --> 00:36:54.139
+Cindy: you know. I could see I could easily kind of follow what step of that i'm on in that specific section, and then you move to the different section, and I like to that. There were big, bold headings
+
+412
+00:36:54.360 --> 00:36:56.930
+Cindy: separating the different sections
+
+413
+00:36:57.250 --> 00:37:06.180
+Cindy: in that. Try it yourself, area of the module, and it then took you back into video. So I really liked how that kind of broke it up.
+
+414
+00:37:07.980 --> 00:37:13.630
+Cindy: The only thing that I sort of left was a little confused on is when I,
+
+415
+00:37:13.840 --> 00:37:26.180
+Cindy: because I am pretty far down on this spectrum of blindness. I'm zoomed in pretty significantly. And so there were moments where I was a little disoriented, a little lost, as far as
+
+416
+00:37:27.100 --> 00:37:34.170
+Cindy: you know, where the main focus needs to be on on the page, and where
+
+417
+00:37:34.970 --> 00:37:47.109
+Cindy: the starting point is. I was kind of looking at that left menu which I now understand is sort of the progress and sequence through the module.
+
+418
+00:37:47.120 --> 00:38:05.559
+Cindy: I thought, okay, do I need to click this to start the module because I was so zoomed in? I didn't realize it had automatically opened, but it was on the right side of the screen, so that left me feeling a little confused, and it took me well to also realize that when.
+
+419
+00:38:05.570 --> 00:38:09.930
+Cindy: as soon as I started the course that that left side was the
+
+420
+00:38:10.140 --> 00:38:11.549
+Cindy: sequence.
+
+421
+00:38:11.780 --> 00:38:17.849
+Cindy: but they weren't numbered, I think, having a number to represent. You know
+
+422
+00:38:18.430 --> 00:38:34.690
+Cindy: this. You know your sequence through the module would would help, you know, moving from the videos to the Try yourself, sections, and having by that by the title above the videos that were nice and bold.
+
+423
+00:38:34.720 --> 00:38:37.170
+Cindy: having some sort of numeral
+
+424
+00:38:37.190 --> 00:38:38.669
+Cindy: to represent
+
+425
+00:38:38.830 --> 00:38:43.689
+Cindy: the sequ. The the progress through the sequence like, you know.
+
+426
+00:38:44.410 --> 00:38:49.050
+Cindy: Section 5 of 12, or whatever the case may be.
+
+427
+00:38:49.100 --> 00:38:54.690
+Cindy: that would have been a little helpful and a lot easier to
+
+428
+00:38:54.730 --> 00:38:56.370
+Cindy: conceptualize
+
+429
+00:38:56.730 --> 00:39:00.330
+Cindy: where i'm at in the Module compared to
+
+430
+00:39:00.380 --> 00:39:04.249
+Cindy: to seeing that that long list on the left side.
+
+431
+00:39:04.430 --> 00:39:05.689
+and
+
+432
+00:39:05.970 --> 00:39:11.029
+Cindy: also trying to figure out, you know which title has a checkmark by it, and such
+
+433
+00:39:12.630 --> 00:39:36.750
+Cindy: other than that. Yeah, Everything seemed to be pretty intuitive, and I really liked that. The buttons also really grabbed my attention towards the bottom, and it could it? The contrast of the color changed for the button for next activity, and such that really kind of helped confirm. Okay, this is the next intuitive place to go, and
+
+434
+00:39:36.760 --> 00:39:38.900
+Cindy: I felt very validated, and and that
+
+435
+00:39:39.160 --> 00:39:42.709
+Cindy: that's that's the button I need to click to go to next.
+
+436
+00:39:42.870 --> 00:39:49.540
+Cindy: So everything else was great and pretty intuitive, and I had no problems.
+
+437
+00:39:49.630 --> 00:39:51.660
+Cindy: a at least understanding
+
+438
+00:39:52.630 --> 00:39:54.609
+Cindy: and figuring it out so
+
+439
+00:39:54.920 --> 00:39:57.229
+Cindy: that's it. Thank you.

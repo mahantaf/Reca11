@@ -1,0 +1,16 @@
+issue_title: Voice Commands Not Recognized
+description: George encountered an issue where the software did not recognize multiple voice commands when trying to interact with the 'Get Started' button. He had to resort to using the mouse grid command option, which is less efficient and indicates a lack of consistent voice command recognition.
+timestamps: '00:06:31.540 --> 00:07:14.259'
+
+issue_title: Inconsistent Interaction with Interactive Elements
+description: George experienced difficulty interacting with links and buttons using voice commands. This issue is apparent when he attempts to use the 'click' command and the 'show links' command without success, indicating a problem with the software's ability to be operated through voice commands alone.
+timestamps: '00:03:19.070 --> 00:04:20.950', '00:08:50.420 --> 00:09:14.370'
+
+issue_title: Play Button Interference with Voice Commands
+description: George reported that the play button was a bit finicky and when the video played with sound on, it interfered with the voice commands he was trying to use.
+timestamps: '00:14:36.720 --> 00:14:47.719', '00:14:54.290 --> 00:15:21.789'
+
+issue_title: Inconsistent Voice Command Recognition
+description: George experienced inconsistency with the voice command recognition, particularly when trying to click the 'next activity' button. Sometimes it worked fine, but other times it did not comprehend, requiring the use of the mouse grid, which he found inconsistent and less accessible.
+timestamps: '00:15:53.820 --> 00:15:56.160', '00:17:07.130 --> 00:17:19.179', '00:18:15.890 --> 00:18:37.449'
+

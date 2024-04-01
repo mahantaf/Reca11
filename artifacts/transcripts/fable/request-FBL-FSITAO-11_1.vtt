@@ -1,0 +1,309 @@
+WEBVTT
+
+1
+00:00:00.100 --> 00:00:03.810
+This meeting is being got it deep, mute button.
+
+2
+00:00:06.180 --> 00:00:12.810
+palmer: Hi! I'm Palmer! I am a fable tester. Today. I am going to be
+
+3
+00:00:13.110 --> 00:00:20.980
+palmer: exploring, bookmarking the activity in a course using voice over on a Macbook air.
+
+4
+00:00:21.520 --> 00:00:25.900
+palmer: So first i'm gonna do command tab
+
+5
+00:00:26.140 --> 00:00:28.600
+palmer: to the website
+
+6
+00:00:29.770 --> 00:00:32.170
+safari safari.
+
+7
+00:00:32.630 --> 00:00:37.520
+palmer: Okay? Now. the first thing that you here is
+
+8
+00:00:38.350 --> 00:00:54.750
+palmer: building accessible something. Let's just do control option. Right, Arrow. To hear that
+
+9
+00:00:56.900 --> 00:01:08.080
+palmer: 2 or 3 different ways, maybe to not sure how we can do it. I could tab and find the bookmark, because I want to bookmark an activity here, and then remove that bookmark.
+
+10
+00:01:08.920 --> 00:01:20.790
+palmer: or there could be a link. or it could be hidden in one of the first headings. So first I just want to hear a bit of about what i'm dealing with.
+
+11
+00:01:21.970 --> 00:01:27.150
+palmer: Excuse me, so i'm going to hit control option. Command H.
+
+12
+00:01:27.670 --> 00:01:29.810
+Heading level one building accessible forms.
+
+13
+00:01:30.460 --> 00:01:34.710
+palmer: And now i'm going to hit control option right Arrow
+
+14
+00:01:35.220 --> 00:01:50.350
+heading level, 2 side Menu heading level 2 using aria aria stands for accessible rich Internet applications. It's developed by the World Wide web, consortium, W. 3, c. And support for a yet is built into web browsers. It fills gaps left by HTML and Css. And making interactions more accessible to assistive technology.
+
+15
+00:01:50.580 --> 00:02:00.440
+palmer: You are currently on the ario gives developers. You are Currently I'm gonna keep hitting control option right, arrow until maybe we find what we're looking for. Here.
+
+16
+00:02:01.130 --> 00:02:29.180
+List 5 items bullet roles. To describe what a component is. Radio group taps, bullet roles. To describe the structure of bullet properties, to describe the state of an element expanded, disabled, invalid required, etc. bullet properties to define live regions of a page that are likely to get updated, such as error, messages and rules, ball instructions on how to provide keyboard navigation for interactive components built with more than native HTML 5 5. And of list. The most important thing to know about aria is that you shouldn't use it unless you absolutely have to. Whenever HTML is available to you. Use that instead.
+
+17
+00:02:29.180 --> 00:02:31.210
+don't use. you are current.
+
+18
+00:02:31.400 --> 00:02:36.220
+palmer: We'll just hear the end of this control option. Right Arrow, less than span all equals length greater than
+
+19
+00:02:36.430 --> 00:02:51.420
+you are current. If you can just use less than a f equals greater than when you to use alternatives to native HTML, you have to manually add lots of functionality. For example, a lesson span greater than doesn't get keyboard focus. It's hard to detect if it's been visited before. So you can apply visited length States and can be activated using the entity.
+
+20
+00:02:51.640 --> 00:03:04.220
+palmer: Okay, that's all very interesting. So i'm gonna open the links menu option using control option. You
+
+21
+00:03:05.760 --> 00:03:10.170
+palmer: and i'm gonna then hit the letter B.
+
+22
+00:03:11.690 --> 00:03:19.200
+palmer: So here we go. one arrow, one arrow to the left Links menu.
+
+23
+00:03:19.790 --> 00:03:32.690
+palmer: other B link identify the current page in breadcrumbs for a link. Indicate the per link added to full link. Aria link are okay, not there. So let me escape if you can Just
+
+24
+00:03:33.100 --> 00:03:43.440
+palmer: and i'm gonna maybe actually, i'm gonna reopen that menu. You control option you and arrow to the right Links menu, Tedding's menu, and i'm gonna
+
+25
+00:03:43.460 --> 00:03:58.200
+palmer: hit the Down arrow here, heading, head heading, head heading Level 3 properties and heading level 3 keyboard and heading Level 3 keyboard instructions if you can. Okay. So I just to escape after going through all those headings very quickly. I didn't see what I wanted.
+
+26
+00:03:58.670 --> 00:04:05.640
+palmer: so I think i'll go. I'll do a control option. Command H.
+
+27
+00:04:06.080 --> 00:04:14.170
+palmer: And then error control option left Arrow, and we'll see if there's a bookmark there.
+
+28
+00:04:14.590 --> 00:04:16.100
+heading level 3 roles.
+
+29
+00:04:16.240 --> 00:04:26.560
+palmer: Okay. Okay, maybe not. So let's go to the last heading Control option. Command H.
+
+30
+00:04:26.950 --> 00:04:29.740
+palmer: And until we your keyboard
+
+31
+00:04:30.040 --> 00:04:33.040
+heading, let lash, heading, heading Level 3 keyboard instruction.
+
+32
+00:04:33.120 --> 00:04:40.630
+palmer: Okay. Control option, right Arrow.
+
+33
+00:04:41.220 --> 00:04:49.860
+Wait and book lists, 2 items white, white and a bullet, and of like W. Aria. When building a clip, for example, blank aria authoring practices guide patterns open.
+
+34
+00:04:50.150 --> 00:04:54.440
+palmer: Okay, that's not what we want. Continue control option, right? Arrow, for example.
+
+35
+00:04:55.100 --> 00:05:00.550
+palmer: Oh, there might. So let's do control option.
+
+36
+00:05:00.930 --> 00:05:02.610
+palmer: You heading's Menu
+
+37
+00:05:03.470 --> 00:05:08.300
+palmer: heading level. One.
+
+38
+00:05:09.680 --> 00:05:11.580
+for example. Links
+
+39
+00:05:11.860 --> 00:05:22.850
+palmer: image heading Level 3 keyboard instructions. Let's try that again. Control option. You one down arrow on the first heading, then enter.
+
+40
+00:05:22.900 --> 00:05:34.740
+palmer: I mean, I. You control option left Arrow. Okay. So that's the one thing I did not check for at the beginning. So let's do command. Shift R
+
+41
+00:05:34.770 --> 00:05:37.000
+palmer: to close this Hi Reader
+
+42
+00:05:37.410 --> 00:05:38.680
+building accessible for
+
+43
+00:05:39.880 --> 00:05:49.180
+palmer: building right now let's go to the last setting, so I will do Control option new headings, menu
+
+44
+00:05:49.290 --> 00:05:51.250
+palmer: down there up to the last one
+
+45
+00:05:51.390 --> 00:05:58.250
+attack telling the Tet heading Level 2 using aria. No, i'm gonna go
+
+46
+00:05:58.610 --> 00:06:07.100
+palmer: up arrow here to that last reading. Heading. Heette Tet heading Level head heading level heading Level 3 accessible web development.
+
+47
+00:06:07.550 --> 00:06:15.030
+palmer: Let's go down, one heading level, heading level, one heading level, 2 course out, heading level, 2 side menu heading level. One building.
+
+48
+00:06:15.420 --> 00:06:19.300
+palmer: Okay. So i'll just down here, up to the end. I thought there might be something there.
+
+49
+00:06:19.690 --> 00:06:21.020
+Heading, heading Level
+
+50
+00:06:22.160 --> 00:06:27.570
+palmer: heading Level 3 keyboard Inst: okay. That's the last one. So enter heading Level 3
+
+51
+00:06:27.610 --> 00:06:39.980
+palmer: control option. Right? Arrow. Here's an exhibit list 3 items list and what list White One and Wind Blank, for example, Blank aria authoring practice, for example, link previous activity.
+
+52
+00:06:40.170 --> 00:06:51.050
+palmer: Next activity button. Okay, we got some buttons Here, Link, add activity to bookmarks. Oh, okay, Here we go. So i'm going to the control option space bar
+
+53
+00:06:51.790 --> 00:06:53.760
+palmer: to add this activity.
+
+54
+00:06:58.220 --> 00:07:09.910
+palmer: Hmm. Okay, it's not saying anything. Let's It'd be just because it's a button. So let's do control option, right? Arrow
+
+55
+00:07:10.240 --> 00:07:12.180
+banner. In Maine
+
+56
+00:07:12.390 --> 00:07:22.260
+palmer: you are correct. Link skip to main content. Okay, it looks like I'm. Back at the top of the page. So let's do control option. Command h
+
+57
+00:07:22.400 --> 00:07:31.050
+heading Level 2 Bradram heading level. One building accessible forms, heading Level 2 side menu. You are adding level 2 course outline
+
+58
+00:07:31.090 --> 00:07:41.570
+palmer: heading level, 3 accessible web development. Okay, i'm gonna go to that last heading right at the bottom. So I do control option u
+
+59
+00:07:42.200 --> 00:07:43.240
+heading's menu.
+
+60
+00:07:43.510 --> 00:07:48.340
+palmer: and then i'll down arrow to the end of this menu.
+
+61
+00:07:49.800 --> 00:07:52.630
+palmer: heading level 3 entered, heading level. 3
+
+62
+00:07:53.640 --> 00:08:09.720
+palmer: control option, right Arrow. Here's list List what and what list, what what end? What end of with up wind, blank, for example, setting click, link next activity. But Link link control, option Left arrow. For example. Link, remove activity from there we go
+
+63
+00:08:10.520 --> 00:08:13.990
+palmer: now. I just have one quick
+
+64
+00:08:14.320 --> 00:08:31.250
+palmer: query. I want it. Find out if I can do tab and a ship tab here. So let's try. Shift tabbing close button building accessible forums. Okay, so let's do control option up arrow.
+
+65
+00:08:31.720 --> 00:08:45.620
+palmer: shift up arrow. Excuse me out of Tab Bar control option right? Arrow. Vertical building access. I'm gonna tap here next Activity button previous activity. Show sidebar button show sidebar previous at next activity. Close button
+
+66
+00:08:45.770 --> 00:09:01.100
+palmer: next activity. Okay. So it looks like you have to go through the various headings. Let's now do the links, Menu. Because I just want to verify without 3 or open whether that option is available as well.
+
+67
+00:09:01.700 --> 00:09:13.260
+palmer: so control option. You error left links, Menu Leather B load link building accessible for Visited Link Dashboard
+
+68
+00:09:13.430 --> 00:09:22.690
+palmer: Link Accessible Web Development Tedding's Menu right Arrow Links menu back to the left and i'm gonna hit a
+
+69
+00:09:22.950 --> 00:09:29.290
+link added to form fields if they have been left empty to I link, add activity to bookmarks.
+
+70
+00:09:35.130 --> 00:09:45.680
+palmer: and i'm going to do control option. Command, Shift H: heading Level 3 keyboard Instruct. Okay. So yeah, I just wanted to verify the last few things there
+
+71
+00:09:46.550 --> 00:09:52.330
+palmer: just to see if there were any other options by all in all this
+
+72
+00:09:52.340 --> 00:10:01.550
+palmer: looks very accessible. So I don't think there's any problems with it. We were able to read some of the info, because want to
+
+73
+00:10:02.310 --> 00:10:06.830
+palmer: check that just here what we were dealing with here Then
+
+74
+00:10:08.040 --> 00:10:11.250
+palmer: I wasn't sure whether it was
+
+75
+00:10:11.280 --> 00:10:17.180
+palmer: the reader was open, so had to then just quickly backtrack and check that.
+
+76
+00:10:17.780 --> 00:10:24.350
+palmer: and then did what I suspected was the add bookmark was right at the bottom
+
+77
+00:10:25.060 --> 00:10:30.210
+palmer: the text. So yeah, all very accessible. Thank you.

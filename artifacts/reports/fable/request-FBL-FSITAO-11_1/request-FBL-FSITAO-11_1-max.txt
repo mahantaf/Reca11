@@ -1,0 +1,12 @@
+issue_title: Focus Management Issue
+description: Palmer encountered an issue with focus management after attempting to add an activity to bookmarks using VoiceOver. After activating the button, there was no spoken feedback or indication of a change in state, which left Palmer uncertain if the action was successful. This lack of immediate feedback and focus movement can lead to confusion and a break in the workflow for screen reader users.
+timestamps: '00:06:51.790 --> 00:07:22.260'
+
+issue_title: Inconsistent Heading Structure
+description: Palmer experienced difficulty in finding the 'add bookmark' option due to inconsistent heading structure. The option was not located under an expected heading, which forced Palmer to navigate extensively through the content. This inconsistency in heading structure can cause screen reader users to miss important functionalities and reduce their confidence in navigating the page.
+timestamps: '00:00:38.350 --> 00:06:51.050'
+
+issue_title: Unannounced Content Change
+description: When Palmer activated the 'add activity to bookmarks' button, there was no announcement to indicate that the content had changed. This lack of feedback could lead screen reader users to believe that the page had not loaded or that the button was broken, causing them to search the page unnecessarily.
+timestamps: '00:06:51.790 --> 00:07:22.260'
+

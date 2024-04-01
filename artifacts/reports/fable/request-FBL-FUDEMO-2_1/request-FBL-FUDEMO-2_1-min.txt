@@ -1,0 +1,60 @@
+issue_title: Issue with Magnification Responsiveness
+description: Kostantino encountered an issue with the responsiveness of the site when using the command plus magnification feature. The content did not scale back properly after magnification, which is an odd behavior and affects the usability for magnification users.
+timestamps: '00:07:07.784 --> 00:07:22.503'
+
+issue_title: Inconsistent Inversion of Images
+description: Kostantino reported that some images did not invert colors as expected with the classic invert setting, which should invert everything on the screen. This inconsistency can be disorienting and does not respect the user's accessibility settings.
+timestamps: '00:12:41.724 --> 00:13:07.014'
+
+issue_title: Low Contrast Between Elements
+description: The tester found that the contrast between some elements, such as the fluorescent green text and the background, was not sufficient, making it difficult to distinguish the content. Additionally, the blue text on a black background did not provide enough contrast, which could be improved with brighter colors like yellow or orange.
+timestamps: '00:09:32.714 --> 00:09:44.934', '00:15:04.704 --> 00:15:16.954'
+
+issue_title: Difficulty Distinguishing Between Images
+description: Kostantino experienced difficulty separating images due to a very tiny sliver of black between them, which made it appear as if they were the same photograph. This issue affects the ability to distinguish between different content sections.
+timestamps: '00:11:21.514 --> 00:11:38.944'
+
+issue_title: Lack of Clear Focus and Outlines
+description: The tester noted that the outlines and focus indicators were not strong enough, suggesting that dashed or bolder lines would be more helpful to indicate actionable content. This issue affects the ability to navigate and interact with the content effectively.
+timestamps: '00:13:20.444 --> 00:13:53.903'
+
+issue_title: Issue with Magnification and Responsiveness
+description: Kostantino reported that as the magnification level increased, the responsiveness of the interface became choppy, making it difficult to read things quickly. This indicates that the software may not be adequately optimized for high levels of magnification, which can hinder the ability of users with visual impairments to access content efficiently.
+timestamps: '00:21:18.914 --> 00:21:43.064'
+
+issue_title: Issue with Left Navigation Menu Accessibility
+description: Kostantino experienced difficulty accessing the left navigation menu under certain levels of magnification. This suggests that the navigation menu is not properly accessible to users who rely on screen magnification, potentially creating challenges in navigating the software.
+timestamps: '00:22:48.054 --> 00:24:35.134'
+
+issue_title: Issue with Hover Text Responsiveness
+description: Kostantino encountered problems with hover text not responding correctly when dealing with longer words or phrases. This issue can significantly disrupt the user experience for those relying on hover text to read content, as it requires starting from the bottom and scrolling up repeatedly to read the full text.
+timestamps: '00:26:25.384 --> 00:28:06.663'
+
+issue_title: Low Contrast and Color Issues
+description: Kostantino reported difficulty with gray content on both black and white backgrounds, indicating that it was hard to see and required resorting to text alternatives. This suggests a lack of sufficient contrast and color differentiation, making it challenging for magnification users to discern elements on the page.
+timestamps: '00:28:52.084 --> 00:28:55.164', '00:28:55.764 --> 00:29:10.423'
+
+issue_title: Hover Text and Touch Point Scaling
+description: Kostantino noted that hover text and touch points were not scaling properly, which could lead to confusion and difficulty in interacting with the interface, especially when elements like buttons overlapped with other sections.
+timestamps: '00:29:27.364 --> 00:29:34.884'
+
+issue_title: Over-scrolling and Page Placement
+description: Kostantino experienced issues with over-scrolling due to magnification, which resulted in losing page placement and having to start navigation from the top again. This indicates a problem with the software's scrolling mechanism for magnification users.
+timestamps: '00:29:42.384 --> 00:30:02.594'
+
+issue_title: Insufficient Text Contrast and Size
+description: Kostantino suggested that text related to digital accessibility and screen readers could be larger and bolder, with more consideration given to various aspects of contrast beyond color, such as line spacing, character spacing, and font weight.
+timestamps: '00:30:32.644 --> 00:31:09.403'
+
+issue_title: Lack of Clear Focus Indicator
+description: Kostantino pointed out the absence of a clear focus indicator beyond the hover state, suggesting that color changes could be used to better indicate focus and engagement with interactive elements.
+timestamps: '00:33:04.744 --> 00:33:35.194'
+
+issue_title: Video Responsiveness and Scaling Issues
+description: Kostantino encountered challenges with video responsiveness and scaling, which made it difficult to interact with the video content, such as meeting the instructor or playing the video.
+timestamps: '00:34:16.714 --> 00:34:50.633'
+
+issue_title: Sidebar Content Disappearance
+description: Kostantino reported that sidebar content disappeared when using magnification, which could lead to missing important navigational elements and information.
+timestamps: '00:40:31.734 --> 00:40:49.813'
+

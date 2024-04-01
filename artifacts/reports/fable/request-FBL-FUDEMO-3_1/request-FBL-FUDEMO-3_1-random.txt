@@ -1,0 +1,16 @@
+issue_title: Voice Commands Not Recognized
+description: George encountered an issue where the software did not recognize multiple voice commands when trying to interact with the 'Get Started' button. Despite repeated attempts with different phrasings such as 'click next', 'click star tour on', 'click! Get started', and 'but get started', the application failed to respond, forcing George to resort to using the mouse grid command, which is a less efficient method for him.
+timestamps: '00:03:19.070 --> 00:03:24.070', '00:03:29.410 --> 00:03:33.130', '00:03:46.440 --> 00:03:50.780', '00:06:31.540 --> 00:07:14.259'
+
+issue_title: Inconsistent Interaction with Voice Commands
+description: George reported that the voice dictation program Dragon NaturallySpeaking did not consistently recognize his commands, particularly when he tried to use the 'show links' command and when attempting to play a video with 'click, play'. This inconsistency in voice command recognition can significantly hinder the usability of the software for users relying on voice navigation.
+timestamps: '00:03:59.370 --> 00:04:01.010', '00:08:50.420 --> 00:08:55.410', '00:12:33.640 --> 00:12:43.560'
+
+issue_title: Play Button Interference with Voice Commands
+description: George encountered an issue where the sound from video playback interfered with the voice commands, making it difficult to use the software with Dragon NaturallySpeaking. This problem was particularly noticeable when trying to use the 'click next activity' command, which did not work as expected due to the interference.
+timestamps: '00:14:36.720 --> 00:15:21.789'
+
+issue_title: Inconsistent Voice Command Recognition
+description: George reported inconsistency with the voice command recognition, particularly when trying to activate the 'click next activity' button. Sometimes the command would work fine, but at other times, it would not be comprehended, requiring the use of the mouse grid as a workaround, which George found cumbersome and inconsistent.
+timestamps: '00:17:07.130 --> 00:18:37.449'
+

@@ -1,0 +1,8 @@
+issue_title: Screen reader focus did not guide users well
+description: Palmer encountered an issue where after activating the 'add activity to bookmarks' button, there was no spoken feedback or indication that the action was successful. This lack of guidance left Palmer unsure if the bookmarking action had been completed.
+timestamps: '00:06:51.790 --> 00:07:22.260'
+
+issue_title: Button lacks clear labelling
+description: The 'add activity to bookmarks' button did not provide spoken feedback when activated, which made it unclear to Palmer what the functionality of the button was or if it had been pressed successfully.
+timestamps: '00:06:51.790 --> 00:07:22.260'
+

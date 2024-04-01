@@ -1,0 +1,8 @@
+issue_title: Confusion due to lack of focus management
+description: Jennifer expressed confusion when she was brought to a page that said it was completed, and she wasn't sure where to go next. She expected to start at the beginning of the course but found herself at the end, which led to uncertainty about how to proceed.
+timestamps: '00:05:14.170 --> 00:05:42.349'
+
+issue_title: Lack of clear feedback after interaction
+description: Jennifer clicked on the 'Continue learning' button but was unsure if it had taken her to where she left off. She had to guess and check to confirm the action, indicating a lack of clear feedback after interacting with the button.
+timestamps: '00:02:43.200 --> 00:03:15.180'
+

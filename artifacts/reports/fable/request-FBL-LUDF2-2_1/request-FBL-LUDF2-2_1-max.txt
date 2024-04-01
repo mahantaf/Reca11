@@ -1,0 +1,28 @@
+issue_title: Inconsistent Region Order
+description: Roger expressed confusion about the order of regions on the page, as they did not match his expectations based on typical web layouts. He expected the banner to come before the navigation region, but found the main region first, which was counterintuitive to him.
+timestamps: '00:01:18.340 --> 00:02:33.480'
+
+issue_title: Skip to Main Content Link Not Working
+description: Roger attempted to use the 'Skip to Main Content' link, but it did not seem to function as expected. He tried it multiple times, and it appeared to do nothing, leaving him in the same place on the page.
+timestamps: '00:03:47.720 --> 00:04:11.180'
+
+issue_title: Table Navigation Issues
+description: Roger encountered issues navigating a table with his screen reader. He was expecting to toggle between two columns but was only able to access one. This suggests there might be a problem with how the table is coded or labeled, affecting his ability to navigate the content.
+timestamps: '00:07:16.220 --> 00:09:27.990'
+
+issue_title: Unlabelled Elements and Inconsistent Navigation
+description: Roger encountered issues with unlabelled elements and inconsistent navigation. He expressed confusion over whether certain items were links or buttons and expected to be taken to a new page or modal but couldn't find the content easily. This inconsistency made it difficult for him to understand how to interact with the page and to locate the content he was looking for.
+timestamps: '00:10:34.130 --> 00:10:37.600', '00:11:10.020 --> 00:11:22.540', '00:13:15.480 --> 00:13:17.160', '00:13:57.760 --> 00:14:08.690', '00:18:18.130 --> 00:18:30.050', '00:19:52.360 --> 00:19:58.540', '00:20:41.600 --> 00:20:45.270'
+
+issue_title: Content Expansion Not Announced
+description: Roger mentioned that when expanding a button, the screen reader did not announce new content, leaving him unsure where the expanded content appeared. He had to search for the new content, which was not an intuitive process.
+timestamps: '00:12:18.470 --> 00:12:51.830', '00:21:06.290 --> 00:21:15.850'
+
+issue_title: Difficulty Distinguishing Between Main Content and Side Menu
+description: Roger found it challenging to distinguish between the main content and the side menu due to a lack of clear delineation. He was unsure when he had reached the end of the side menu and entered the main content area, which affected his ability to navigate efficiently.
+timestamps: '00:18:18.130 --> 00:18:30.050', '00:19:52.360 --> 00:19:58.540'
+
+issue_title: Inconsistent Error Messaging
+description: Roger experienced inconsistent error messaging, which made it difficult for him to identify and correct issues. He had to search the page item by item to find errors, which was not an efficient process.
+timestamps: '00:16:14.710 --> 00:16:20.460'
+

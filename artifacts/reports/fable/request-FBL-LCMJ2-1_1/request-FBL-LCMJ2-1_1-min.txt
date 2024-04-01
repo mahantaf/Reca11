@@ -1,0 +1,48 @@
+issue_title: Focus Management Issue
+description: Andrew reports that after activating a link, the focus did not move as expected. This occurred multiple times, such as when using the 'Skip to main content' link and when activating the 'About the Web Development Course' link. The focus remained in the same spot, causing confusion and requiring additional navigation to find the correct location.
+timestamps: '00:01:20.830 --> 00:01:37.539', '00:05:09.620 --> 00:05:27.470'
+
+issue_title: Video Player Controls Disappear
+description: Andrew encountered a significant issue where the controls for the video player disappeared after hitting the play button. This prevented him from being able to pause, stop, or interact with the video in any way, which could be problematic if he needed to take a break or received a phone call.
+timestamps: '00:09:06.560 --> 00:09:23.069', '00:13:13.200 --> 00:13:27.359', '00:14:35.050 --> 00:14:50.299'
+
+issue_title: Inconsistent Navigation and Labeling
+description: Andrew found that navigating through the course content was inconsistent. He expected to be taken to the main activity section but was instead taken past the beginning parts. Additionally, the headings and buttons were not labeled in a way that made it clear what content they were associated with, leading to confusion.
+timestamps: '00:10:34.770 --> 00:11:00.039'
+
+issue_title: Screen reader repeating bullet items
+description: Andrew experienced an issue where the screen reader seemed to read the same bullet a couple of times as if they were separate items, which could indicate a problem with how the list items are structured or tagged for screen reader interpretation.
+timestamps: '00:16:21.430 --> 00:16:38.859', '00:16:39.110 --> 00:16:42.080'
+
+issue_title: Inconsistent heading structure
+description: Andrew noticed that the heading structure was not consistent, as he had to use a shortcut key to detect headings that the screen reader did not automatically identify. This inconsistency can lead to confusion and difficulty in navigating the content.
+timestamps: '00:17:17.849 --> 00:17:27.369'
+
+issue_title: Video player controls disappearing
+description: Andrew reported that every time he hit play on a video, the controls would disappear until he refreshed the page with F5. This behavior could be due to an integration issue with the video hosting service (Vimeo) and affects the ability to control video playback.
+timestamps: '00:19:36.900 --> 00:19:55.509', '00:19:55.520 --> 00:20:00.980'
+
+issue_title: Lack of instructions for image slider
+description: Andrew was confused about what to do with an image slider and the associated images, indicating a lack of clear instructions or labels for these interactive elements.
+timestamps: '00:21:08.530 --> 00:21:23.839', '00:21:44.430 --> 00:21:54.280'
+
+issue_title: Screen reader focus issues
+description: Andrew mentioned that after refreshing the page, the screen reader's focus was on the play button, but he expected it to be at the top of the page. This unexpected focus placement can disorient users.
+timestamps: '00:19:20.490 --> 00:19:30.799'
+
+issue_title: Repetitive reading of list items
+description: The screen reader was reading the same list item multiple times when Andrew was navigating by bullet points, which could indicate an issue with how the list is coded or presented to the screen reader.
+timestamps: '00:29:40.090 --> 00:30:01.410'
+
+issue_title: Inconsistent Heading Structure
+description: Andrew expressed confusion due to inconsistent heading structures, which made it difficult to determine if he was in the final section of the module or just another part of it. He expected a clear indication, such as a quiz or a distinct pause point, to signify the end of a module.
+timestamps: '00:31:43.730 --> 00:31:45.070', '00:32:53.060 --> 00:33:15.529'
+
+issue_title: Lack of Clear Course Completion Indicators
+description: Andrew was unsure about the overall progress of the course due to a lack of clear indicators or milestones, such as a quiz or a major pause point, to signal the completion of the first module.
+timestamps: '00:34:13.139 --> 00:34:22.270', '00:34:24.120 --> 00:34:37.140'
+
+issue_title: Video Player Controls Inaccessible After Playing
+description: Andrew encountered a bug with the video player controls where, after playing a video, JAWS could not detect the player controls, forcing him to either refresh the page or move on to the next lesson without being able to stop the video.
+timestamps: '00:35:01.220 --> 00:35:17.170'
+

@@ -1,0 +1,52 @@
+issue_title: Screen reader focus did not guide users well
+description: Andrew encountered an issue where activating a skip link did not move the screen reader focus as expected. Despite the screen reader narrating as if the focus had moved, the actual focus remained unchanged, causing confusion.
+timestamps: '00:01:20.830 --> 00:01:37.539', '00:05:09.620 --> 00:05:27.470'
+
+issue_title: Video player controls are inaccessible
+description: Andrew reported a significant issue with the video player controls disappearing after hitting the play button, making it impossible to pause or interact with the video. This is a major accessibility barrier as it prevents users from controlling the video playback.
+timestamps: '00:09:06.560 --> 00:09:23.069', '00:13:13.200 --> 00:13:27.359', '00:14:35.050 --> 00:15:03.809'
+
+issue_title: Inconsistent navigation and missing controls
+description: Andrew experienced inconsistent navigation where the heading he expected to lead to the main activity section instead took him past the beginning parts. Additionally, the controls for the video player were not consistently present, leading to a confusing and inaccessible experience.
+timestamps: '00:10:34.770 --> 00:11:00.039', '00:14:35.050 --> 00:15:03.809'
+
+issue_title: Screen reader repeating bullet items
+description: Andrew experienced an issue where the screen reader seemed to read the same bullet a couple of times as if they were separate items, which could indicate a problem with how the list items are structured or announced by the screen reader.
+timestamps: '00:16:21.430 --> 00:16:38.859', '00:16:39.110 --> 00:16:42.080'
+
+issue_title: Inconsistent heading structure
+description: Andrew noticed that there seems to be a heading structure, but it was not consistently detectable with hotkeys, which can lead to confusion and difficulty in navigating the content efficiently.
+timestamps: '00:17:17.849 --> 00:17:27.369'
+
+issue_title: Video player controls disappearing
+description: Andrew reported that every time he hit play on a video, the controls would disappear until he refreshed the page, which might indicate an integration issue with the video player, such as Vimeo.
+timestamps: '00:19:55.520 --> 00:20:00.980'
+
+issue_title: Lack of instructions for interactive elements
+description: Andrew was confused about what to do with a slider and images because there was no instruction provided, which could lead to a lack of understanding of how to interact with these elements.
+timestamps: '00:21:08.530 --> 00:21:23.839'
+
+issue_title: Screen reader focus issues
+description: Andrew mentioned that after adding an item to the cart, the screen reader focus was not placed correctly, and he had to use shortcut keys to navigate, which indicates a focus management issue.
+timestamps: '00:19:20.490 --> 00:19:30.799'
+
+issue_title: Screen reader repeating content
+description: Andrew encountered an issue where the screen reader was repeating content while navigating, which could be due to improper markup or screen reader behavior.
+timestamps: '00:23:36.899 --> 00:23:48.890'
+
+issue_title: Difficulty navigating bulleted lists
+description: Andrew found that the screen reader was not detecting the difference between bullet points properly, which could lead to confusion when trying to understand the structure of the content.
+timestamps: '00:29:40.090 --> 00:30:34.209'
+
+issue_title: Confusing Module Completion Indicators
+description: Andrew expressed confusion regarding the completion of a module, as there was no clear indication such as a quiz or a distinct pause point to signify the end of the module. He felt as though he was just moving to another part of the same module, which made it difficult to understand his progress.
+timestamps: '00:32:53.060 --> 00:33:15.529'
+
+issue_title: Inconsistent Heading Structure
+description: Andrew encountered issues with the heading structure, which made it difficult to navigate and find specific sections such as 'Getting Started with Web Development.' The inconsistent use of headings led to confusion and hindered his ability to efficiently locate content.
+timestamps: '00:33:49.000 --> 00:34:04.199'
+
+issue_title: Video Player Control Accessibility
+description: Andrew reported a bug with the video player controls where, after playing a video, JAWS was unable to detect the player controls, requiring a page refresh or moving on to the next lesson to stop the video. This issue significantly affects the accessibility of the video content.
+timestamps: '00:34:53.780 --> 00:35:17.170'
+

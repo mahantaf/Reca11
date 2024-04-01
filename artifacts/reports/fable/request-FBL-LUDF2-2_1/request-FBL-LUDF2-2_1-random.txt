@@ -1,0 +1,28 @@
+issue_title: Unexpected Region Order
+description: Roger expected the regions on the page to be ordered as banner, navigation, then main, but found them in a different sequence. This caused some confusion as it did not align with his intuitive expectations of a webpage's structure.
+timestamps: '00:01:18.340 --> 00:02:33.480'
+
+issue_title: Skip to Main Content Link Not Functional
+description: Roger attempted to use the 'Skip to Main Content' link, but it did not seem to function as expected, leaving him unsure if it was working properly.
+timestamps: '00:03:47.720 --> 00:04:11.180'
+
+issue_title: Table Navigation Issues
+description: Roger encountered issues navigating a table with two columns. He was only able to toggle within one column and could not access the second column, which he expected to be able to do.
+timestamps: '00:07:16.220 --> 00:08:27.210'
+
+issue_title: Missing Column Headers
+description: Roger noticed that there was only one column header for a table that he believed should have two. This led to confusion about the table's structure and content.
+timestamps: '00:08:50.560 --> 00:09:27.990'
+
+issue_title: Content Expansion Not Announced to Screen Reader
+description: Roger expressed difficulty understanding where new content appears after expanding a button. He suggests that the screen reader should indicate that new content will appear directly below the expanded area, rather than having to search for it, which is not easy to conceptualize.
+timestamps: '00:12:18.470 --> 00:12:51.830'
+
+issue_title: Unclear Side Menu Navigation
+description: Roger is confused about how to determine the end of the side menu and when he has reached the main content of the page. He suggests that there should be a clearer way to delineate the content from the side menu to improve usability.
+timestamps: '00:18:14.430 --> 00:20:09.670'
+
+issue_title: Button Expansion Focus Management
+description: Roger reports that after expanding a button, the focus remains on the button instead of moving to the content that was expanded. This causes confusion and makes it difficult for screen reader users to find the newly revealed content.
+timestamps: '00:21:06.290 --> 00:21:29.760'
+

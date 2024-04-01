@@ -1,0 +1,4 @@
+issue_title: Confusion on Course Completion Status
+description: Jennifer expressed confusion when she navigated to the course and found it marked as completed. She was unsure where to go next because she expected to start at the beginning of the course. This confusion could be due to a lack of clear instructions or feedback on what steps to take after completing a course.
+timestamps: '00:05:14.170 --> 00:05:42.349'
+

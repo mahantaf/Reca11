@@ -1,0 +1,4 @@
+issue_title: Placement of Button Controls
+description: The tester, Christopher, expressed difficulty with the placement of button controls, stating that they are too far down on the page. This required him to scroll down excessively after reading everything, which he found inconvenient. He suggested that it might be better if the button controls were located at the top of the page to avoid having to scroll down to search for them.
+timestamps: '00:02:10.430 --> 00:02:11.690', '00:03:02.890 --> 00:03:06.230', '00:03:28.340 --> 00:03:32.580'
+

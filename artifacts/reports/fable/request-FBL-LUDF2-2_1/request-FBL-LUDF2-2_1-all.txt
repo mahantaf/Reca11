@@ -1,0 +1,44 @@
+issue_title: Inconsistent Region Order
+description: Roger expressed confusion about the order of regions on the page, as they did not match his expectations based on typical web layouts. He expected the banner to come before the navigation region, followed by the main region, but found that the main region came first. This disoriented him and made the page layout seem counterintuitive.
+timestamps: '00:01:18.340 --> 00:02:33.480'
+
+issue_title: Skip to Main Content Link Not Working
+description: Roger encountered an issue with the 'Skip to Main Content' link, which did not seem to function as intended. He attempted to use it multiple times, but it did not appear to skip to the main content, leaving him unsure of its purpose and effectiveness.
+timestamps: '00:03:47.720 --> 00:04:11.180'
+
+issue_title: Unlabelled Images
+description: Roger mentioned a preference for images to be labeled, as he encountered images with descriptions that were not clear or understandable. This made it difficult for him to comprehend the content and navigate effectively.
+timestamps: '00:04:38.010 --> 00:04:54.980'
+
+issue_title: Table Navigation Issues
+description: Roger experienced difficulty navigating a table that seemed to have only one column, despite indications that there might be two. The screen reader was not allowing him to toggle between columns, which suggested a potential issue with the table structure or labeling.
+timestamps: '00:06:54.930 --> 00:08:24.750'
+
+issue_title: Content Expansion Not Announced to Screen Reader
+description: Roger expressed difficulty with a button that, when expanded, did not announce the new content or move focus to it. This left him still sitting on the button, having to search for the expanded content, which was not an efficient or clear experience.
+timestamps: '00:12:15.510 --> 00:12:51.830'
+
+issue_title: Unclear Side Menu Navigation
+description: Roger was confused about the delineation between the side menu and the main content. He found it difficult to conceptualize when he had reached the end of the side menu and was on the main page, suggesting a need for a clearer way to differentiate between the two.
+timestamps: '00:18:18.130 --> 00:20:09.670'
+
+issue_title: Misleading Non-Interactive Elements
+description: Roger encountered elements that seemed like they were interactive (links or buttons) due to their verbiage, but they were not. This was misleading and caused confusion about whether he could select them and be taken to another page or modal.
+timestamps: '00:13:15.480 --> 00:14:18.050'
+
+issue_title: Inconsistent Use of Headings and Regions
+description: Roger noted that some parts of the application worked well with regions and headings, allowing him to conceptualize the layout and navigate efficiently. However, he also encountered areas where the button expanded content was not followed by the screen reader, leading to confusion and inefficiency.
+timestamps: '00:20:45.660 --> 00:21:43.460'
+
+issue_title: Missing Column Headers
+description: Roger noticed that there was only one column header for a table that he believed should have two. This led to confusion about the table's structure and content.
+timestamps: '00:08:50.560 --> 00:09:27.990'
+
+issue_title: Button Expansion Focus Management
+description: Roger reports that after expanding a button, the focus remains on the button instead of moving to the content that was expanded. This causes confusion and makes it difficult for screen reader users to find the newly revealed content.
+timestamps: '00:21:06.290 --> 00:21:29.760'
+
+issue_title: Inconsistent Error Messaging
+description: Roger experienced inconsistent error messaging, which made it difficult for him to identify and correct issues. He had to search the page item by item to find errors, which was not an efficient process.
+timestamps: '00:16:14.710 --> 00:16:20.460'
+

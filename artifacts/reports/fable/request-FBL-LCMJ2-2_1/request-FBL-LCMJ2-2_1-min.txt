@@ -1,0 +1,48 @@
+issue_title: Difficulty in Navigating Course Modules
+description: Cindy experienced confusion while trying to navigate the course modules. She struggled to find the list of modules and was unsure whether the checkmarks indicated completed sections or something else. This confusion led to difficulty in understanding how to start and proceed with the first module.
+timestamps: '00:03:15.780 --> 00:03:21.179', '00:04:49.640 --> 00:04:55.209', '00:05:24.180 --> 00:05:28.870'
+
+issue_title: Issues with Dark Mode Contrast
+description: Cindy switched to dark mode to reduce eye strain from the bright white screen while magnified. However, she did not provide specific feedback on the dark mode's usability, which could indicate potential issues with contrast or visibility that were not explicitly mentioned.
+timestamps: '00:09:12.680 --> 00:09:26.409'
+
+issue_title: Difficulty Identifying Interactive Elements
+description: Cindy initially mistook a video for an image due to the lack of clear interactive cues. She only realized it was a video when she noticed the play button and control bar, which indicates that the interactive elements were not immediately obvious to her as a magnification user.
+timestamps: '00:10:22.990 --> 00:10:59.799'
+
+issue_title: Lack of Progress Indicators
+description: Cindy expressed difficulty in determining her progress through the module due to the absence of clear progress indicators. This made it challenging for her to pace herself through the content.
+timestamps: '00:17:09.589 --> 00:17:26.810'
+
+issue_title: Faint Text and Strain
+description: Cindy reports that the text in a certain section is really faint, which makes it difficult and straining for her to read. She also mentions a personal preference for bolder instruction text above selection boxes, as when it's faded and small, it's more difficult for her to see.
+timestamps: '00:25:39.670 --> 00:25:42.950', '00:26:00.940 --> 00:26:16.569'
+
+issue_title: Difficulty with Star Graphics
+description: Cindy finds the star graphics used for rating visually difficult to identify and read. She suggests that a numerical representation would be more accessible for her than the star graphic, as it's easier for her to click on a number than to count stars.
+timestamps: '00:26:19.270 --> 00:27:02.709'
+
+issue_title: Small and Faint Text in Input Fields
+description: Cindy reported difficulty reading faint writing inside text boxes due to its small size, requiring her to zoom in significantly to see the instructions such as 'Enter your answer.' This indicates an issue with text size and contrast, making it hard for magnification users to read without additional effort.
+timestamps: '00:27:35.100 --> 00:27:44.659'
+
+issue_title: Unclear Progress Indication
+description: Cindy expressed confusion regarding the progress through the module, mentioning that the layout was not clear and lacked numerical representation of progress (e.g., '5 of 23'). She suggested that a progress bar or a step indicator would be more intuitive, indicating an issue with the current progress visualization.
+timestamps: '00:29:09.930 --> 00:30:43.700'
+
+issue_title: Checkmarks Not Visible When Zoomed In
+description: Cindy noted that when zoomed in to read titles, she could not see the checkmarks indicating completion next to them. She had to zoom out or scroll over to view the checkmarks, which made it difficult to associate them with the corresponding titles. This suggests an issue with the spatial layout and visibility of completion indicators for magnification users.
+timestamps: '00:31:34.170 --> 00:32:01.940'
+
+issue_title: Lack of Clear Completion Confirmation
+description: Cindy was left with a feeling of uncertainty upon finishing the module, as there was no clear completion confirmation, progress bar, or ending landing page. The interface simply took her back to the beginning, which did not provide a clear indication that she had completed all required tasks.
+timestamps: '00:35:05.180 --> 00:35:44.120'
+
+issue_title: Disorientation due to magnification
+description: Cindy experienced disorientation and confusion due to being zoomed in significantly, which made it difficult for her to understand where the main focus should be on the page and where to start. She initially focused on the left menu, not realizing that the main content had automatically opened on the right side of the screen.
+timestamps: '00:37:13.840 --> 00:38:11.549'
+
+issue_title: Lack of numbering in sequence navigation
+description: Cindy suggested that adding numbers to represent the sequence through the module would be helpful. She found it challenging to conceptualize her progress through the module when looking at the long list on the left side without numerical representation.
+timestamps: '00:38:11.780 --> 00:39:04.249'
+

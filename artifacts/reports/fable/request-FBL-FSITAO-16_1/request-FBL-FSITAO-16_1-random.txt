@@ -1,0 +1,4 @@
+issue_title: Voice Recognition Misinterpretation
+description: Tariel experienced issues with the voice recognition software misinterpreting commands. Specifically, when attempting to select 'introduction to accessibility,' the software misheard the command as 'swarm' and 'score,' which led Tariel to use the mouse click as a workaround.
+timestamps: '00:03:43.420 --> 00:04:05.320'
+

@@ -1,0 +1,64 @@
+issue_title: Inconsistent Magnification and Scaling
+description: Kostantino experienced odd behavior with the magnification and scaling of the site. When using the command plus to magnify, the site responded but did not scale back as expected when attempting to reverse the action. This inconsistency can cause confusion and difficulty in navigating the site effectively.
+timestamps: '00:07:07.784 --> 00:07:22.503', '00:07:22.704 --> 00:07:30.014'
+
+issue_title: Poor Contrast and Color Choices
+description: Kostantino found the contrast between certain colors, such as fluorescent green against the background and blue against black, to be poor. Additionally, the use of a mustard yellow shade was not ideal for visibility. These color choices can make it difficult for users with visual impairments to distinguish content and navigate the site.
+timestamps: '00:09:32.714 --> 00:09:44.934', '00:14:52.704 --> 00:15:04.153', '00:15:20.584 --> 00:15:23.784'
+
+issue_title: Content Not Inverting Properly
+description: Kostantino noted that some images did not invert when using the classic invert setting, which is contrary to his expectations and the intended functionality. This issue can be disorienting and may prevent users from accessing content in their preferred settings.
+timestamps: '00:12:41.724 --> 00:13:07.014'
+
+issue_title: Lack of Clear Focus and Outlines
+description: The tester mentioned that outlines and focus indicators could be improved by using dashed or bolder lines to better indicate actionable content. The current implementation may not be sufficient for users who rely on these visual cues to navigate.
+timestamps: '00:13:20.444 --> 00:13:53.903'
+
+issue_title: Badge Visibility Issues
+description: Kostantino was unable to clearly see a badge, possibly due to its color being gray, which did not stand out against the background. This lack of visibility can prevent users from recognizing achievements or important elements on the site.
+timestamps: '00:15:51.494 --> 00:16:38.213'
+
+issue_title: Inaccessible Navigation Menu at High Magnification
+description: Kostantino reported that the left navigation menu becomes inaccessible when magnified to a certain level. This issue prevents access to important features like bookmarks, which could create challenges for users who rely on magnification to read the screen.
+timestamps: '00:22:56.974 --> 00:23:07.553'
+
+issue_title: Hover Text Issues with Long Words
+description: Kostantino experienced problems with hover text when dealing with longer words, as the text does not respond properly and gets cut off. This issue makes it difficult to read and understand content, requiring users to start from the bottom and scroll up, then down again, which is a poor user experience.
+timestamps: '00:26:33.704 --> 00:27:45.724'
+
+issue_title: Excessive Use of Gray Text
+description: Kostantino found that there was an excessive use of gray text on the page, which could pose readability issues for users, especially when using magnification tools.
+timestamps: '00:28:52.084 --> 00:28:55.164'
+
+issue_title: Low Contrast and Color Issues
+description: Kostantino expressed difficulty with the gray content on the interface, particularly when gray is used on black or white backgrounds. He mentioned that this is always difficult to deal with and often resorts to using text-to-speech features as a workaround.
+timestamps: '00:28:52.084 --> 00:28:55.164', '00:28:55.764 --> 00:29:10.423'
+
+issue_title: Hover Text and Touch Point Scaling
+description: Kostantino noted that hover text and touch points are not scaling properly, which causes elements like buttons to overlap with other sections, making navigation difficult.
+timestamps: '00:29:27.364 --> 00:29:34.884'
+
+issue_title: Over-scrolling with Magnification
+description: When attempting to navigate quickly, Kostantino experienced issues with over-scrolling due to magnification, which led to losing his place on the page and having to start over from the top.
+timestamps: '00:29:42.384 --> 00:30:02.594'
+
+issue_title: Insufficient Text Contrast and Size
+description: Kostantino suggested that text related to different sections could be larger and bolder, and that contrast is not just about color but also includes line spacing, character spacing, word spacing, font selection, font size, boldness, weight, and italics.
+timestamps: '00:30:32.644 --> 00:31:09.403'
+
+issue_title: Lack of Clear Focus Indicator
+description: The tester found that there was no clear focus indicator other than the hover state, and suggested that color changes could be used to better indicate focus and engagement with elements.
+timestamps: '00:33:04.744 --> 00:33:35.194'
+
+issue_title: Video Responsiveness and Scaling Issues
+description: Kostantino encountered challenges with the responsiveness and scaling of video elements, which did not adapt well when magnified, making it difficult to interact with the content.
+timestamps: '00:34:16.714 --> 00:34:44.143'
+
+issue_title: Bright Backgrounds and Text Legibility
+description: The bright white background and potentially red text on the video content were problematic for Kostantino, making it difficult to view and causing discomfort.
+timestamps: '00:36:39.174 --> 00:37:06.904'
+
+issue_title: Navigation and Content Discovery Issues
+description: Kostantino mentioned that certain sections of the interface, such as the sidebar, disappeared when using magnification tools, which made it difficult to navigate and discover content.
+timestamps: '00:40:31.734 --> 00:40:51.814'
+
