@@ -1,0 +1,24 @@
+issue_title: Voice Commands Not Working as Expected
+description: Hassan experienced issues with the voice command 'show links' not working as expected. He attempted to use this command to show clickable links within the module, but it did not work, leading him to try alternative methods such as saying the name of the link or using the mouse grid to divide the screen and pinpoint the area he wanted to click.
+timestamps: '00:01:44.520 --> 00:01:45.860', '00:01:57.120 --> 00:01:58.520', '00:02:27.570 --> 00:02:28.850', '00:04:08.230 --> 00:04:09.630', '00:05:40.510 --> 00:05:41.819'
+
+issue_title: Video Controls Accessibility
+description: Hassan found it difficult to interact with video controls using voice commands. The controls would disappear after hovering over the video, making it challenging to bring them back up with the 'show links' command. He managed to activate the controls on his second attempt, but it seemed to be more by chance than by design. Hassan suggests that the controls should always be visible, especially before entering full screen mode, to allow voice command access.
+timestamps: '00:06:13.000 --> 00:06:15.760', '00:06:23.590 --> 00:06:26.850'
+
+issue_title: Exiting Full Screen Resets Page Position
+description: Hassan reports that when exiting full-screen mode on a video by saying 'press escape,' the page scrolls back to the top rather than staying on the video. This makes it difficult to navigate back to the video using voice commands alone.
+timestamps: '00:08:05.250 --> 00:08:56.919'
+
+issue_title: Video Controls Disappear Quickly
+description: Hassan mentions that the video controls disappear after a few seconds, which makes it difficult to use voice commands to interact with them. He suggests keeping the controls visible for longer to make it easier to interact with them using voice commands.
+timestamps: '00:10:59.680 --> 00:11:36.360'
+
+issue_title: Voice commands don't work as expected
+description: Hassan repeatedly attempted to use voice commands such as 'show links' and specific 'choose' commands to interact with the software, but had to resort to using 'mouse grid' and manual selection commands, indicating that the voice commands were not functioning as intended.
+timestamps: '00:13:42.650 --> 00:13:43.940', '00:14:04.190 --> 00:14:05.470', '00:14:20.510 --> 00:14:21.750', '00:14:26.600 --> 00:14:27.830', '00:14:30.700 --> 00:14:32.349', '00:16:19.430 --> 00:16:20.730', '00:16:43.360 --> 00:16:44.650', '00:17:01.510 --> 00:17:02.810', '00:17:23.530 --> 00:17:24.819', '00:18:55.590 --> 00:18:56.860'
+
+issue_title: Inconsistent interaction with video controls
+description: Hassan expressed difficulty in interacting with video controls using voice commands. Although he was able to adjust the volume, he mentioned the need to use 'mouse grid' and other manual commands to interact with other controls, which suggests that the interaction was not seamless.
+timestamps: '00:15:00.160 --> 00:15:03.259', '00:15:09.810 --> 00:15:12.149', '00:15:54.530 --> 00:15:57.020'
+

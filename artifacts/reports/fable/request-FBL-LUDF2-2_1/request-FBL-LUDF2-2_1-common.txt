@@ -1,0 +1,24 @@
+issue_title: Inconsistent Region Order
+description: Roger expressed confusion about the order of regions on the page, as they did not match his expectations based on typical web layouts. He expected the banner to come before the navigation region, followed by the main region, but found that the main region came first. This disoriented him and made the page layout seem counterintuitive.
+timestamps: '00:01:18.340 --> 00:02:33.480'
+
+issue_title: Skip to Main Content Link Not Working
+description: Roger encountered an issue with the 'Skip to Main Content' link, which did not seem to function as intended. He attempted to use it multiple times, but it did not appear to skip to the main content, leaving him unsure of its purpose and effectiveness.
+timestamps: '00:03:47.720 --> 00:04:11.180'
+
+issue_title: Unlabelled Images
+description: Roger mentioned a preference for images to be labeled, as he encountered images with descriptions that were not clear or understandable. This made it difficult for him to comprehend the content and navigate effectively.
+timestamps: '00:04:38.010 --> 00:04:54.980'
+
+issue_title: Table Navigation Issues
+description: Roger experienced difficulty navigating a table that seemed to have only one column, despite indications that there might be two. The screen reader was not allowing him to toggle between columns, which suggested a potential issue with the table structure or labeling.
+timestamps: '00:06:54.930 --> 00:08:24.750'
+
+issue_title: Content Expansion Not Announced to Screen Reader
+description: Roger expressed difficulty with a button that, when expanded, did not announce the new content or move focus to it. This left him still sitting on the button, having to search for the expanded content, which was not an efficient or clear experience.
+timestamps: '00:12:15.510 --> 00:12:51.830'
+
+issue_title: Unclear Side Menu Navigation
+description: Roger was confused about the delineation between the side menu and the main content. He found it difficult to conceptualize when he had reached the end of the side menu and was on the main page, suggesting a need for a clearer way to differentiate between the two.
+timestamps: '00:18:18.130 --> 00:20:09.670'
+

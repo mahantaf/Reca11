@@ -1,0 +1,4 @@
+issue_title: Button Placement Issue
+description: The tester, Kris, expressed difficulty with the placement of a button, stating that it is too far down on the page. This required excessive scrolling to find the button, which could be cumbersome for alternative navigation users. Kris suggested that the button could be placed at the top of the page to make it more accessible.
+timestamps: '00:01:55.390 --> 00:02:10.430', '00:02:58.900 --> 00:03:02.890', '00:03:24.300 --> 00:03:28.220'
+

@@ -1,0 +1,4 @@
+issue_title: Button Placement Issue
+description: The tester, Kris, expressed difficulty with the placement of a button, stating that it is too far down on the page. This required additional scrolling and made it less accessible for alternative navigation users.
+timestamps: '00:01:55.390 --> 00:02:10.430', '00:02:58.900 --> 00:03:02.890', '00:03:03.520 --> 00:03:06.230', '00:03:17.120 --> 00:03:23.770', '00:03:28.340 --> 00:03:32.580'
+

@@ -1,0 +1,821 @@
+WEBVTT
+
+1
+00:00:00.310 --> 00:00:04.420
+It's going to. It's really hard, but it's it's it's it's it's a lot of people. People People don't like they don't like it.
+
+2
+00:00:07.880 --> 00:00:13.830
+roger: Hi, everyone! How are you? This is Roger and I'm an accessibility tester with fable.
+
+3
+00:00:13.960 --> 00:00:23.420
+roger: and today i'm going to be taking a look at fable upscaling. I'll comment to you on the accessibility and usability of this service.
+
+4
+00:00:23.430 --> 00:00:28.600
+roger: I'll be using my screen, reader, which is jaws running on a windows 10 laptop
+
+5
+00:00:28.950 --> 00:00:33.340
+roger: with chrome as my browser, and essentially the task is. Just
+
+6
+00:00:33.560 --> 00:00:51.980
+roger: poke around and check it out and try out some of the activities. And then just sort of give you some of my comments based on just, you know, doing that little cursive browse, and that's what i'm going to do. So I've already logged in using the credentials that were provided to me.
+
+7
+00:00:52.080 --> 00:01:02.110
+roger: And we're gonna just basically start at the top. I'm gonna take my screen, reader, make sure the focus is at the top of the browser Internet browser window.
+
+8
+00:01:02.190 --> 00:01:02.860
+roger: Okay.
+
+9
+00:01:06.470 --> 00:01:11.470
+roger: yeah, let's see if there's any regions first off.
+
+10
+00:01:11.620 --> 00:01:12.390
+maybe the
+
+11
+00:01:12.680 --> 00:01:13.430
+roger: okay
+
+12
+00:01:13.510 --> 00:01:14.540
+like to go. Better
+
+13
+00:01:15.700 --> 00:01:16.570
+never get a meeting
+
+14
+00:01:18.340 --> 00:01:19.490
+ready to stop my meeting.
+
+15
+00:01:19.550 --> 00:01:32.880
+roger: Okay, that kinda threw me off a bit here when i'm like, let me just back up and say the context of me checking to see if there's any regions is something that I do that helps me break up
+
+16
+00:01:32.900 --> 00:01:40.330
+roger: a page that I've never visited before into kind of like little digestible sections to get a lay of the land.
+
+17
+00:01:40.500 --> 00:01:46.380
+and the first region that I encountered was Maine. Then we have, I think, it was a banner.
+
+18
+00:01:46.570 --> 00:01:49.390
+roger: and then a navigation region.
+
+19
+00:01:50.580 --> 00:01:54.350
+roger: That kind of throws me up because I usually expect the banner.
+
+20
+00:01:54.590 --> 00:01:58.240
+roger: then the navigation region, then the main
+
+21
+00:01:58.790 --> 00:01:59.370
+roger: it.
+
+22
+00:01:59.820 --> 00:02:05.120
+roger: It's going to be interesting to see how this page is laid out, because if you want to think of it like
+
+23
+00:02:05.170 --> 00:02:10.850
+roger: your banner is almost like your your cover page on a book like the title.
+
+24
+00:02:11.540 --> 00:02:18.690
+roger: The Navigation Region is kind of like a table of contents, which would be the next logical thing you would find in a book.
+
+25
+00:02:18.930 --> 00:02:23.540
+roger: and then your main region is like, you know, like all the chapters and the information.
+
+26
+00:02:23.910 --> 00:02:33.480
+roger: So in my mind, this page just seems to be laid out with the regions a little bit differently than I would intuitively expect.
+
+27
+00:02:34.080 --> 00:02:42.450
+roger: But let's see what you have up your sleeve, so that's just something that caught my attention right now. Let me see if you have any headings. So i'm going to take my
+
+28
+00:02:42.860 --> 00:02:44.450
+roger: focus up to the top.
+
+29
+00:02:50.210 --> 00:02:54.910
+roger: Get a feel for sections, such as titles and areas
+
+30
+00:02:54.980 --> 00:03:01.690
+of of discussion on the page. What's the next one? My name will post it to. That's specifically any more. We
+
+31
+00:03:02.750 --> 00:03:09.980
+It's like it's it's really getting more freely accessible equipment. Anyone cleanly accessible to experience that you don't really like that's all the web setting up ready to talk to anyone.
+
+32
+00:03:10.320 --> 00:03:13.470
+roger: Okay, that that sounded very logical.
+
+33
+00:03:13.610 --> 00:03:24.270
+roger: You don't have a lot of headings there which is good. I mean, you know everybody thinks oh, you're blind. You must have supersonic hearing. Oh, you're blind. You must have a super awesome memory.
+
+34
+00:03:24.500 --> 00:03:30.410
+roger: Well. for some people, yes, some people know. and if you load it up with too many headings.
+
+35
+00:03:30.420 --> 00:03:40.040
+roger: They serve as a disservice because of that just means there's way too much sections for me to try to remember to conceptualize what's on this page. So
+
+36
+00:03:40.090 --> 00:03:42.040
+roger: that look good.
+
+37
+00:03:42.500 --> 00:03:45.190
+roger: Okay. Now, I just want to start up at the top again.
+
+38
+00:03:45.210 --> 00:03:47.170
+What? It's it's it's it's the main content.
+
+39
+00:03:47.720 --> 00:03:51.660
+roger: Okay, that's good that you've got that link. Let me try it out. So it's simply a contingent.
+
+40
+00:03:52.440 --> 00:03:53.730
+Same thing. It's a to be content.
+
+41
+00:03:53.930 --> 00:03:54.610
+roger: Hmm.
+
+42
+00:03:54.810 --> 00:04:04.110
+roger: What's it for a lot of people to you. Same thing. Let's keep the main content. Let's try that. One more time. It's it's it's it's
+
+43
+00:04:04.180 --> 00:04:11.180
+roger: Sometimes those links are just like they don't do anything. So we skipped to the main content. Okay.
+
+44
+00:04:12.410 --> 00:04:18.240
+roger: but i'm aing with descriptions over the context menu when they're they're heading up freely, testing specifically. Oh, I can't see them of descriptions over the context, menu when they're
+
+45
+00:04:19.640 --> 00:04:33.010
+roger: I I I kinda don't always understand that. But let me try it. Application it's been.
+
+46
+00:04:38.010 --> 00:04:41.910
+roger: but my preference is to
+
+47
+00:04:42.550 --> 00:04:43.850
+roger: like have
+
+48
+00:04:44.360 --> 00:04:46.030
+an image labeled.
+
+49
+00:04:46.170 --> 00:04:51.410
+roger: Obviously the information there would be too much to put in an actual label.
+
+50
+00:04:51.610 --> 00:04:54.980
+roger: But I would just prefer that a an image is labeled.
+
+51
+00:04:55.500 --> 00:05:07.960
+We're not the it's about about it, but it's the way people use this technology. It's where I find multiple texts, and that's why they're in the same of a description. So it's a competitive for me testing disability. Okay, we're not the same website of the applications. The way people uses the technology it's what I find about will I take the next. The complete overall rock is about 10% of we
+
+52
+00:05:08.500 --> 00:05:16.750
+that in the premiere of the we're about a disability by percenting this billiona of the technology, because it's it's for models that take like by tenants. They don't, we don't know it's it's a we're going to be cutting the we're going to have a little bit.
+
+53
+00:05:17.810 --> 00:05:24.050
+One of the buildings like that. We're over there, and when people use this as a technology, it's what it's it's it's it's it's. It's it's but at least overall it's always the over and complete.
+
+54
+00:05:24.460 --> 00:05:28.000
+roger: Okay, it's very good, like the layout of the content.
+
+55
+00:05:28.200 --> 00:05:33.270
+roger: very understandable. And the progress is very easy to understand.
+
+56
+00:05:33.280 --> 00:05:42.000
+I don't know if it's going to one of the buildings experiences that we're over there, and when people use this technologies because i'm 6 models that take 15 t0 20B min a week overall. Probably it's only a percent that we add in the freely accessible of labs.
+
+57
+00:05:43.190 --> 00:05:50.750
+Okay, no freely accessible plants or not to be able to support the world. There's simply people who use this technology, but with the details with I mean overall it's always the percent complete. Maybe we don't it.
+
+58
+00:05:50.770 --> 00:05:54.840
+roger: Okay, the world's we have to be able to add in a freely to a little of let's try this one
+
+59
+00:05:56.660 --> 00:06:04.420
+because it's a little. Recommend it to me, and i'll do it, but it's it's like it's like it's it's it's it's it's it's it.
+
+60
+00:06:04.730 --> 00:06:11.230
+roger: Okay, that's good. That comes on understandable.
+
+61
+00:06:11.990 --> 00:06:24.670
+We're not going to be able to that. We're over there, and it's like people use this to technology. But to the I was a man with screen because I had a model to take 1015B min, and we we' it t0 0ur category. Mobiles 7. So you're always like to change like 2020 for me. Looks like one.
+
+62
+00:06:26.480 --> 00:06:30.970
+roger: Is that today's date. Hmm. In today's the seventeenth.
+
+63
+00:06:36.640 --> 00:06:40.530
+roger: Why, we're one day off. Who knows?
+
+64
+00:06:40.550 --> 00:06:42.280
+Technically we'll get back to you.
+
+65
+00:06:42.630 --> 00:06:45.170
+roger: Okay, Take with some comments in those activity collimator
+
+66
+00:06:45.260 --> 00:06:46.530
+possible for some people to.
+
+67
+00:06:48.830 --> 00:06:53.120
+roger: Okay. So we got a table here.
+
+68
+00:06:54.930 --> 00:07:07.020
+I can't. I mean a collection. So for some people, a couple of but act of the you know it's it's it's a little different. but it's a it's a 1 billionpeople. We can go Actually, most of the time. It's a 1 million people don't want it actively, but it's not because it's a 1 million people in the one.
+
+69
+00:07:07.390 --> 00:07:09.440
+I can't, but it's a it's a 1 billionpeople to have a couple of
+
+70
+00:07:10.250 --> 00:07:13.460
+roger: Hmm. There's only one column. We can go
+
+71
+00:07:13.560 --> 00:07:15.620
+actively, but it's a it's a it's a it's a one.
+
+72
+00:07:16.220 --> 00:07:28.600
+roger: For some reason I was thinking that there was. Let me go back up to the top. because it's only allowing me to toggle just in one column
+
+73
+00:07:28.870 --> 00:07:31.410
+top of top column. Take with some of those.
+
+74
+00:07:31.760 --> 00:07:39.280
+roger: Oh, that's why 2 columns and a road. That's what made me think that there was 2 columns, but I was only able seemed like
+
+75
+00:07:40.020 --> 00:07:43.110
+roger: to just be in one column
+
+76
+00:07:43.650 --> 00:07:44.920
+about a couple of people in
+
+77
+00:07:45.920 --> 00:07:53.180
+meet a coach, and some people know we can go actively, meaningful that it's not something we'll never call them one actively meet a coach. And so for some people we have a call about it.
+
+78
+00:07:53.740 --> 00:08:00.880
+roger: Okay, so i'm that's only one column.
+
+79
+00:08:01.660 --> 00:08:06.550
+roger: Now i'm going to go to the right, and I should go to column 2 actually. But we'll be able to come on.
+
+80
+00:08:08.060 --> 00:08:13.030
+We can go actually, but we'll just really we'll have a one. actually, but we'll definitely we'll get a long one.
+
+81
+00:08:14.910 --> 00:08:17.900
+roger: Okay, so i'm not really sure what's happening there. But I
+
+82
+00:08:18.050 --> 00:08:24.750
+roger: I know that something is not available, but it should really allow me to go to the second column.
+
+83
+00:08:25.040 --> 00:08:27.210
+roger: and i'm invoking the command.
+
+84
+00:08:27.310 --> 00:08:33.179
+roger: and it's going, but it's repeating back to me that it's an only in column one.
+
+85
+00:08:33.490 --> 00:08:40.490
+roger: So I think that should be revisited by the problem. Okay, let's take a look at the we'll be able to take a look at the labs. Take with some other details.
+
+86
+00:08:41.880 --> 00:08:45.370
+I think, with some common articles. I can tell you how the better it's supporting them. They're They're not.
+
+87
+00:08:46.960 --> 00:08:49.880
+Let me have a little bit of a It's voting back in the
+
+88
+00:08:50.560 --> 00:08:59.750
+roger: So there's a column header. There's only one column header and the same thing, I believe. was for the other one that we just saw.
+
+89
+00:08:59.910 --> 00:09:01.170
+I'm going to have a little.
+
+90
+00:09:02.770 --> 00:09:10.730
+roger: so i'm not sure if you are the cause of this is because of not having a second heading.
+
+91
+00:09:10.800 --> 00:09:13.700
+roger: Now, at the same time.
+
+92
+00:09:13.890 --> 00:09:19.610
+roger: lot of things are not available as well. but you might want to just revisit this and and see.
+
+93
+00:09:19.730 --> 00:09:27.990
+roger: Did you intend to be there to be 2 columns? Therefore there should be 2 headers, even if the second column is unavailable.
+
+94
+00:09:28.330 --> 00:09:33.560
+roger: Let's just go and see if there's a third column. Okay.
+
+95
+00:09:35.330 --> 00:09:37.830
+when i'll do activity about my i'll do
+
+96
+00:09:37.890 --> 00:09:45.840
+roger: okay. This one seems to be able to toggle doing column, one and column 2 that can be common. I always been told to people that it wasn't. Actually, I always controlled them in 1 1
+
+97
+00:09:47.180 --> 00:09:52.880
+we can go actually. I wasn't told if people didn't come, but I was content a little bit. I I was content to be able to have one.
+
+98
+00:09:53.190 --> 00:10:07.660
+roger: and this one, as well as having the problems of being able to toggle between column, one and column 2. Okay. So we just took a quick peek. Here, let's let's get out of this and try another course.
+
+99
+00:10:08.320 --> 00:10:13.230
+roger: It's it's any other one. I think, about it, but it's it's it's it's it's Still, even the for you.
+
+100
+00:10:13.570 --> 00:10:14.690
+roger: The first course
+
+101
+00:10:14.800 --> 00:10:26.780
+doesn't mean it's it's it's it's it's it's the only type of doesn't mean it's it's it's it's it's it's it's. It's really any other one, adding all two-parts of tales. We're not the testified by applications, or where people use this and technology, it's where I find Module to take the next phenomena that we'll be raised in 1.5. I'm like I'm. Just building the modules
+
+102
+00:10:27.340 --> 00:10:30.500
+talking So it's like it's like it's like 2020.
+
+103
+00:10:30.640 --> 00:10:31.390
+roger: Okay.
+
+104
+00:10:31.910 --> 00:10:32.710
+Thanks, everybody.
+
+105
+00:10:34.130 --> 00:10:37.600
+But it's a of descriptions over the context. Many when they'll probably cutting the free and they will know what to do.
+
+106
+00:10:38.330 --> 00:10:52.710
+roger: Okay, i'm not going to test the columns here. We did that already.
+
+107
+00:10:55.470 --> 00:11:06.630
+I mean it's a really difficult part of what's the only automated disabilities. I'll be back on that. I mean it's it's really doesn't it very well on that. It's like that. And that's what i'm like. I'm going to do what i'm like same failure. cutting the pre-existing disability, adding the 588
+
+108
+00:11:07.670 --> 00:11:08.880
+five-year-olds. On.
+
+109
+00:11:10.020 --> 00:11:22.540
+roger: Oh, that sounds like a typo. I can I say say the d I d I d that's Yup. Sorry guys gonna have to revisit that bad boy. That's not all activities is not spelled correctly.
+
+110
+00:11:32.760 --> 00:11:36.900
+and the 5 0n the table that doesn't really doesn't. Add in the freezing disability. same paintings selectively
+
+111
+00:11:38.710 --> 00:11:43.620
+cutting the back on the kind of disability that it flags like I like to click on with the 5, like about the testimony of the
+
+112
+00:11:43.840 --> 00:11:46.750
+roger: with a five-year-old like that. It's just really doesn't it please. The left
+
+113
+00:11:47.220 --> 00:11:49.530
+510 t0 510 to the
+
+114
+00:11:50.150 --> 00:11:55.780
+roger: automated. Okay.
+
+115
+00:11:56.390 --> 00:12:03.870
+roger: So i'm getting a five-year-old
+
+116
+00:12:03.920 --> 00:12:06.830
+flags. My flag with your likes on with the 5 that comes about the testing disability course.
+
+117
+00:12:07.030 --> 00:12:10.390
+roger: Okay. So
+
+118
+00:12:10.540 --> 00:12:11.760
+flags my colleagues on
+
+119
+00:12:12.900 --> 00:12:13.940
+roger: interesting
+
+120
+00:12:15.510 --> 00:12:18.320
+roger: what I what I would suggest here.
+
+121
+00:12:18.470 --> 00:12:23.420
+roger: just so that the Screen reader user knows that there's new content.
+
+122
+00:12:23.790 --> 00:12:27.220
+roger: Once they expand this button that it's like one of the
+
+123
+00:12:27.300 --> 00:12:30.640
+roger: that the new content will appear
+
+124
+00:12:30.710 --> 00:12:36.130
+roger: directly below. and i'm talking. Don't even put 5 activities done.
+
+125
+00:12:36.180 --> 00:12:38.770
+roger: get rid of that, and just expand it.
+
+126
+00:12:38.820 --> 00:12:42.760
+roger: because to kind of have that little hurdle.
+
+127
+00:12:43.100 --> 00:12:51.830
+roger: and then find where the new content is. It's not always easy to conceptualize that and understand that
+
+128
+00:12:52.150 --> 00:13:00.740
+about the same disability was Minnesota Wasn't it it's a We then adding the 5% to the I mean, that's a really interesting
+
+129
+00:13:01.030 --> 00:13:08.580
+roger: Okay? And then, now this is back to the original content on the page.
+
+130
+00:13:08.590 --> 00:13:09.640
+They were just.
+
+131
+00:13:09.930 --> 00:13:13.970
+roger: but it's still it's a quiz, and none of these are linked. They're absolutely.
+
+132
+00:13:15.480 --> 00:13:17.160
+We don't know about the testing. It's really
+
+133
+00:13:17.790 --> 00:13:22.210
+roger: so. I mean, they almost seem like they are links. You can click on
+
+134
+00:13:22.770 --> 00:13:28.660
+roger: based on the the verbiage.
+
+135
+00:13:30.650 --> 00:13:43.650
+I mean it's it's really it's it's it's it's it's, it's, it's it's it's it's it's a make mechanism. To I mean it's it's it's a it's a that it will. It's like a adding with 2% of my doesn't mean that it's really I don't know if it's going to be the 5 by the candidate. 556 0n it's a five-year-old of the testimony. It's it's going to be a
+
+136
+00:13:44.060 --> 00:13:55.010
+roger: i'm not sure again. I know that some items are not available. But
+
+137
+00:13:55.410 --> 00:13:57.100
+roger: were they links?
+
+138
+00:13:57.760 --> 00:14:08.690
+roger: Were they buttons that were? We're supposed to be defined that I could have selected because that's the impression that I got. What is accessibility testing, and I thought I would have been taken to a page or
+
+139
+00:14:08.810 --> 00:14:18.050
+roger: a a modell, or something that would answer that question. Maybe it's already on this page, but I haven't gotten to it. It should really it shouldn't really take that much time to find it
+
+140
+00:14:18.130 --> 00:14:19.180
+I can be able to.
+
+141
+00:14:19.880 --> 00:14:39.250
+roger: So it's it's a it's like their mac that's the much right. There that they'll do activate the same page, and it's it's it's, it's, it's it's it's like they're in the next Testament right there that'll see in the phenomenon where it's a continuous integration. Graphic If it's a it's, it's, it's a it's a it's a it's a it's a it's, a it's a it's a it's a it's a it's a it's, a it's, a it's a it's a it's a it's a it's a it's a it's a it's a it's a it's a it's a it's, a it'
+
+142
+00:14:39.250 --> 00:14:40.070
+our competitive.
+
+143
+00:14:54.290 --> 00:15:05.150
+like the fact that there was an I like there. There's a customer's metaphor that it's a disability. So it's all that i's called much of any of we actually don't use with much of the testing framework. This link is actually one. For example, if there was an AD like there on the top tennis rates, and that's an example of forming with the label.
+
+144
+00:15:05.230 --> 00:15:09.670
+roger: Okay.
+
+145
+00:15:09.720 --> 00:15:11.510
+i'm like I mean it's a it's a that one.
+
+146
+00:15:12.590 --> 00:15:16.800
+roger: So this is automated accessibility
+
+147
+00:15:17.040 --> 00:15:20.910
+like that's a disability like, what's it matter with the freedoms adding a to my club
+
+148
+00:15:27.470 --> 00:15:28.290
+with my
+
+149
+00:15:28.300 --> 00:15:33.090
+roger: Let's get out of this one a lot of interesting things here, but
+
+150
+00:15:37.950 --> 00:15:48.490
+roger: people can do things in an automated way. you know. They can only go so far because you need to also test the usability
+
+151
+00:15:48.520 --> 00:15:52.830
+roger: of of that so called accessible website to see if it's
+
+152
+00:15:52.890 --> 00:15:56.870
+roger: understandable by your average screen reader, for example, user or
+
+153
+00:15:57.130 --> 00:16:04.700
+roger: other assistive technology. So in other words, you got to involve the human in it.
+
+154
+00:16:04.810 --> 00:16:08.040
+roger: I'll just d0 0ne more. I people don't want me to just believe that it will be
+
+155
+00:16:08.060 --> 00:16:14.030
+available to people with disabilities, and they will be unable to commit to the I people don't seem to.
+
+156
+00:16:14.710 --> 00:16:20.460
+roger: and let me just double check the page
+
+157
+00:16:21.190 --> 00:16:24.510
+writing it up. I'm not able to list it to my resources for legacy disability.
+
+158
+00:16:24.750 --> 00:16:34.820
+roger: Okay. I'm just trying to refresh my memory because all I did was use the back button. and I thought I was going to go back to the main page.
+
+159
+00:16:36.830 --> 00:16:48.840
+roger: Okay, this might be the course. Yeah, I i'm just remembering. And I should have used the the breadcrum.
+
+160
+00:16:49.130 --> 00:16:50.560
+roger: Let's try that.
+
+161
+00:16:52.110 --> 00:16:53.910
+I just don't have a little bit of it for me. Let's make them
+
+162
+00:16:54.280 --> 00:16:55.840
+roger: okay, metal. To
+
+163
+00:16:56.060 --> 00:17:09.630
+I just don't have a problem with any other one. adding all 2 ports of tail. We're not a build that's like we're over there, and when people use this with technologies, because i'm 6 models that take 15 and 20B min to complete operation, so that we're actually going to be able to do it. But it's it's it's it's it's it's. It's it's, it's, it's, it's, it's, it's, it's, it's it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's it's, it's it's it's it's it's it's it's it's.
+
+164
+00:17:09.640 --> 00:17:10.680
+roger: let's try it out.
+
+165
+00:17:16.050 --> 00:17:17.339
+I just don't need to another one
+
+166
+00:17:18.670 --> 00:17:22.589
+roger: accessible, I don't want to tell you that it it's like a new editor. I'm like
+
+167
+00:17:22.770 --> 00:17:32.190
+same big link to the that you know. For example, Web development cutting the 556 0f the I don't know if it's a web development, adding the 5 0ne blocks of a web development 4 by 4 times I
+
+168
+00:17:44.210 --> 00:17:48.410
+links to. But this link information about links. For example, when you specify a language link, you don't have to
+
+169
+00:17:48.720 --> 00:17:49.570
+roger: Karen.
+
+170
+00:17:50.460 --> 00:17:56.450
+roger: I'm just trying to understand here. If this is still part of the side menu.
+
+171
+00:17:56.500 --> 00:18:09.630
+We have a a quiz with that heading with 556 0f components 5 5 5 but it's cutting the 5 0n the left-handed, and you're g0 7. It's like it's it's it's it's it's it's it's, it's it's it's it's it's it's on my heading up to a desktop application man who's adding up to a testable permission man who's heading up to a table.
+
+172
+00:18:09.720 --> 00:18:10.860
+So the authentic for you
+
+173
+00:18:12.410 --> 00:18:14.260
+roger: i'm gonna back up to the top.
+
+174
+00:18:14.430 --> 00:18:17.610
+recommending that to access to that little one that it will.
+
+175
+00:18:18.130 --> 00:18:30.050
+roger: So this is a side menu that will do what I like. The thing that I don't understand is. How do you know when you're at the end of the side menu? Because
+
+176
+00:18:30.250 --> 00:18:33.530
+there's a lot of headings here that you could use?
+
+177
+00:18:34.380 --> 00:18:40.410
+roger: And it could be very misunderstood to think that you're actually on the main page.
+
+178
+00:18:40.640 --> 00:18:45.140
+roger: So how do you that? That's my question is, how do you know you're done
+
+179
+00:18:45.250 --> 00:18:46.980
+roger: with the with the side menu
+
+180
+00:18:47.210 --> 00:18:54.680
+accessible development that we will for accessible development. That's much of a content that the 555 billionpounds that we'll be able to get int0 500 labs activated.
+
+181
+00:18:57.200 --> 00:19:05.730
+roger: So I think a person would really need to have an understanding of what what's on this page and use it multiple times to be able to know
+
+182
+00:19:06.220 --> 00:19:11.780
+roger: where they are sort of on the page. Let me go back up to the top
+
+183
+00:19:11.790 --> 00:19:16.980
+navigation. We don't like that. Like what is it with that? Nobody to me that
+
+184
+00:19:20.820 --> 00:19:27.820
+roger: so even the side menu is not not a I don't think it's a region mechanical navigation meeting with the Microsoft casualties.
+
+185
+00:19:27.830 --> 00:19:33.130
+metal navigation that you will do with them. No ready to stop me. So that's the thing it's like
+
+186
+00:19:33.380 --> 00:19:48.280
+roger: You You say that it's a side menu. So i'm like, okay in my mind. It's like off to the side. But as I go through it I don't really conceptualize it as just a menu, and then. Now I'm. On the main
+
+187
+00:19:48.530 --> 00:19:51.750
+roger: part of the course. So I definitely would say.
+
+188
+00:19:52.360 --> 00:19:56.400
+roger: there's got to be a better way to delineate the content
+
+189
+00:19:56.570 --> 00:19:58.540
+from the side menu.
+
+190
+00:19:58.620 --> 00:20:09.670
+roger: from the content on the main page to understand. Hey, you know. this is what I want. Let me go to the side menu bam. Let me move over to the main part
+
+191
+00:20:09.790 --> 00:20:15.250
+roger: so I can, you know, check it out. I think that would really help with the usability
+
+192
+00:20:16.590 --> 00:20:27.820
+roger: getting down to the nitty gritty of this content. I think it's about it like I mean I could. I could continue checking out other courses and other components of it, but
+
+193
+00:20:27.960 --> 00:20:38.220
+roger: from the outset it just seems like, hey, Just go poke around randomly, check things out. Try them out and give us your feedback. and that's what I did. So
+
+194
+00:20:38.480 --> 00:20:41.330
+roger: we saw that there were a couple of things that kinda
+
+195
+00:20:41.600 --> 00:20:45.270
+roger: to me for a little loop there that didn't quite follow
+
+196
+00:20:45.660 --> 00:20:54.920
+roger: well other things work really well with the regions and the headings. because, having something you you could conceptualize
+
+197
+00:20:55.150 --> 00:21:05.880
+roger: and have a really good layout of how the page is. Allow me to move a little bit more efficiently on the page to get to the content that I want to get to and not really get lost in it.
+
+198
+00:21:06.290 --> 00:21:15.850
+roger: just like what we saw. That button that I expanded. and I was still sitting on the button as opposed to the content that it expanded, and I have to go look for it.
+
+199
+00:21:16.170 --> 00:21:20.400
+roger: There's a lot of question marks that come in my mind. It makes a little bit tougher
+
+200
+00:21:20.450 --> 00:21:29.760
+roger: when a screen reader user has to hunt around kind of like an Easter egg hunt to find it. Okay? Well, I I expanded this button. Where's the content now of it.
+
+201
+00:21:30.550 --> 00:21:43.460
+roger: So number one. Thank you so much for developing the content of these pages and courses because they're super super super important. I hope you get a lot of traffic and a lot of use out of them.
+
+202
+00:21:43.560 --> 00:21:46.400
+roger: But at the same time, if you did have
+
+203
+00:21:46.410 --> 00:21:58.900
+roger: consumers who were assistive technology users that you were able to address some of the things that I mentioned to you to make it a little bit more worthwhile like for us, because I can definitely learn a lot from the content that you've
+
+204
+00:21:59.090 --> 00:22:00.240
+roger: based on here.
+
+205
+00:22:00.410 --> 00:22:03.050
+roger: Thanks, everyone. Take good care, bye. Now.

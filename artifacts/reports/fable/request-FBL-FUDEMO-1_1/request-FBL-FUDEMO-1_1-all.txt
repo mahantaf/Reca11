@@ -1,0 +1,72 @@
+issue_title: Redundant Navigation Links
+description: Bob found the presence of both a graphic link and a text link to the dashboard in the navigation to be redundant. He suggested that it might be more streamlined to have just the graphic at the beginning and the link in the global navigation area.
+timestamps: '00:02:22.040 --> 00:02:56.440'
+
+issue_title: Unclear Button Labeling and Function
+description: Bob was confused by a button that had a string of numbers and the word 'fable' followed by 'button collapsed'. He expected a label indicating 'user id' if it was related to his account and was unsure why it was collapsible.
+timestamps: '00:03:04.500 --> 00:03:47.060'
+
+issue_title: Inconsistent Heading Levels
+description: Bob noted that the 'My active courses' heading was marked as an H3, but he expected it to be an H2 since the H1 is typically the landing point on the page. He suggested this for better organization and clarity.
+timestamps: '00:05:18.100 --> 00:05:37.120'
+
+issue_title: Unclear Link Labeling
+description: Bob found the 'Continue learning' link label to be potentially confusing for first-time users, as he would expect it to say 'Start learning' instead. He mentioned that 'Continue learning' would make more sense if he was returning to the course.
+timestamps: '00:08:28.720 --> 00:08:47.420'
+
+issue_title: Missing Status Information in Table
+description: Bob noticed that the status column next to each activity link in a table was not being read out by the screen reader, leaving him unsure of the status of each activity.
+timestamps: '00:09:13.280 --> 00:09:59.520'
+
+issue_title: Unclear Purpose of Content Blocks
+description: Bob was puzzled by the intent of content blocks labeled 'unavailable', questioning whether they were meant to capture his impressions or if they were placeholders for future content.
+timestamps: '00:10:53.210 --> 00:11:42.509'
+
+issue_title: Confusing Link Labels
+description: Bob encountered confusion with the links list, where two links in a row were labeled 'dashboard' without clear differentiation. This caused uncertainty about whether there was a more overarching dashboard or one specific to the user.
+timestamps: '00:13:18.240 --> 00:13:30.249'
+
+issue_title: Redundant Verbiage
+description: Bob found the repeated verbiage at the beginning of a page to be redundant and not helpful for understanding the content, which could lead to confusion and frustration.
+timestamps: '00:13:40.390 --> 00:13:56.320'
+
+issue_title: Inconsistent Terminology
+description: Bob was confused by the change in terminology from 'badges' to 'champions', which was not clearly explained or consistent, leading to a lack of understanding about the content.
+timestamps: '00:14:49.190 --> 00:15:01.609'
+
+issue_title: Unclear Content Structure
+description: Bob expressed difficulty understanding whether the content was specific to him or an overview of the entire organization's progress, indicating a lack of clarity in the content's structure and purpose.
+timestamps: '00:15:15.640 --> 00:16:04.280'
+
+issue_title: Choppy Text Blocks
+description: Bob suggested that blocks of text should not be choppy and should be read through as a whole paragraph to avoid breaking the flow of information, which can be disorienting for screen reader users.
+timestamps: '00:16:47.560 --> 00:16:56.409'
+
+issue_title: Missing Table Headers
+description: Bob noted that there was no header label for what he assumed would be the 'status' column in a table, which could lead to confusion when trying to understand the table's content.
+timestamps: '00:20:42.160 --> 00:20:55.080'
+
+issue_title: Unclear Link Descriptions
+description: Bob found that the links did not clearly indicate that they were classes or modules, which could lead to confusion about the nature of the content being linked to.
+timestamps: '00:19:36.620 --> 00:19:50.700'
+
+issue_title: Grammar and Pronunciation Issues
+description: Bob encountered a potential grammar issue with the pronunciation of 'product blocks round button', suggesting the addition of a dash to improve clarity.
+timestamps: '00:23:22.180 --> 00:23:48.820'
+
+issue_title: Confusing Button Labeling
+description: Bob found the button labels, such as 'product walks round button', to be confusing and not making much sense, especially to someone not familiar with the application. This could lead to misunderstandings about the button's purpose and functionality.
+timestamps: '00:25:01.560 --> 00:25:17.779'
+
+issue_title: Inconsistent Heading Structure
+description: Bob suggested reviewing the heading structure on the landing page for better navigation, implying that the current structure may not be clear or logical, which can hinder users from efficiently navigating the content.
+timestamps: '00:25:49.650 --> 00:25:57.600'
+
+issue_title: Ambiguous Link Text
+description: Bob mentioned that the link text 'fable dashboard' versus 'get into the navigation, and then and dashboard' implies that there are two different dashboards, which can be confusing. He suggested working on clearer titling for links.
+timestamps: '00:26:15.060 --> 00:26:27.589'
+
+issue_title: Table Without Column Header
+description: Bob encountered a table that did not have a column header, which can make it difficult for screen reader users to understand the structure and content of the table.
+timestamps: '00:27:05.540 --> 00:27:10.509'
+

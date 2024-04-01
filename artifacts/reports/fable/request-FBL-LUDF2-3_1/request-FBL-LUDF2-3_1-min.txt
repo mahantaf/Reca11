@@ -1,0 +1,8 @@
+issue_title: Voice Commands Not Working as Expected
+description: Tariel experienced difficulty with voice commands not working as expected. The 'show links' command did not seem to function properly, and Tariel had to resort to using 'mouse grid' and other commands to navigate. This issue indicates a problem with voice command recognition and could lead to increased effort and frustration for users relying on voice navigation.
+timestamps: '00:00:54.050 --> 00:00:57.170', '00:01:26.000 --> 00:01:27.200', '00:04:55.300 --> 00:05:01.900'
+
+issue_title: Difficulty with Back Navigation
+description: Tariel struggled to use the 'click back arrow' command to navigate back to the previous page. Despite multiple attempts with different commands, the action was not successful, which could be a significant barrier to efficient navigation for users who depend on voice commands.
+timestamps: '00:07:08.720 --> 00:07:09.980', '00:07:12.190 --> 00:07:13.470', '00:07:17.150 --> 00:07:18.430'
+

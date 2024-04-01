@@ -1,0 +1,52 @@
+issue_title: Difficulty Finding Course Title and Navigation Issues
+description: Cindy experienced difficulty locating the course title and navigating the layout of the course. She expressed confusion about where to go next due to the lack of clear numbering or guidance, which made it challenging to orient herself and find the starting point of the module.
+timestamps: '00:01:12.170 --> 00:01:19.570', '00:01:27.630 --> 00:01:58.540', '00:04:23.940 --> 00:04:44.480'
+
+issue_title: Unclear Module Progress Indicators
+description: Cindy was confused by the checkmarks next to the module names, which made it unclear whether the modules were already completed or if they were the next steps. This lack of clarity in progress indicators caused uncertainty about how to start and proceed with the first module.
+timestamps: '00:04:49.640 --> 00:05:18.469', '00:05:24.180 --> 00:05:28.870'
+
+issue_title: Issues with Dark Mode Contrast
+description: Cindy switched to dark mode to reduce eye strain from the bright white screen while magnified. However, she did not provide specific feedback on the dark mode's usability or any issues encountered, so it's unclear if there were any contrast or visibility problems in dark mode.
+timestamps: '00:09:12.680 --> 00:09:37.459'
+
+issue_title: Difficulty Identifying Videos
+description: Cindy initially mistook a video for an image due to the play button not being immediately apparent. She only realized it was a video when she noticed the play bar, indicating a potential issue with the visibility or prominence of interactive media controls.
+timestamps: '00:10:22.990 --> 00:10:59.799'
+
+issue_title: Lack of Progress Indication
+description: Cindy expressed uncertainty about her progress through the module, indicating that there was no clear indication of progress or pacing, which could lead to confusion and difficulty in managing learning pace.
+timestamps: '00:17:09.589 --> 00:17:26.810'
+
+issue_title: Faint Text and Strain with Survey Selections
+description: Cindy expressed difficulty with the survey section, stating that the instruction text above the selection box was faint and small, making it more difficult and eye-straining for her. She also mentioned a preference for bolder text to alleviate this issue.
+timestamps: '00:25:39.670 --> 00:26:16.569'
+
+issue_title: Difficulty Identifying and Reading Star Graphics
+description: Cindy found the star graphics used for rating in the survey to be visually difficult to identify and read. She suggested a preference for numerical representation over graphic stars for accessibility reasons.
+timestamps: '00:26:19.270 --> 00:27:07.729'
+
+issue_title: Small and Faint Text in Text Boxes
+description: Cindy reported difficulty reading faint writing inside text boxes due to its small size, requiring her to zoom in significantly to see the text clearly.
+timestamps: '00:27:39.230 --> 00:27:44.659'
+
+issue_title: Unclear Module Progress Layout
+description: Cindy found the layout of the module progress unclear and not intuitive at first. She suggested that a numerical representation of progress, such as 'step 6 of 12', would be more helpful than the current layout.
+timestamps: '00:29:20.480 --> 00:30:43.700'
+
+issue_title: Checkmarks Not Visible When Zoomed In
+description: Cindy mentioned that when zoomed in to read titles, she could not see the checkmarks indicating completed sections at the same time, requiring her to zoom out or scroll to view them.
+timestamps: '00:31:38.450 --> 00:31:55.610'
+
+issue_title: Confusing End of Course Navigation
+description: Cindy expressed confusion at the end of the course, as there was no clear indication of completion, such as a progress bar or an ending landing page, leaving her with an uncertain feeling about whether she had finished the course.
+timestamps: '00:35:05.980 --> 00:35:44.120'
+
+issue_title: Disorientation due to magnification
+description: Cindy reported feeling disoriented and lost due to significant magnification, which made it difficult to understand where the main focus should be on the page and where to start. She was initially confused by the left menu, thinking she needed to click it to start the module, not realizing the main content had automatically opened on the right side of the screen.
+timestamps: '00:37:13.840 --> 00:38:11.549'
+
+issue_title: Lack of numbering in sequence navigation
+description: Cindy suggested that adding numbers to represent the sequence through the module would be helpful. She found it challenging to conceptualize her progress through the module when looking at the long list on the left side without numbers.
+timestamps: '00:38:11.780 --> 00:39:04.249'
+

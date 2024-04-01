@@ -1,0 +1,16 @@
+issue_title: Difficulty Navigating to Activities
+description: Sheetal expressed confusion while trying to locate the activities on the demo page. Despite seeing the links, they appeared to be disabled, which prevented interaction. This issue indicates a potential problem with the discoverability and operability of interactive elements.
+timestamps: '00:05:26.290 --> 00:06:14.460'
+
+issue_title: Inconsistent Magnification Needs
+description: Sheetal had to constantly adjust the magnification level while reading through the content, indicating that the text size was not consistent across the page. This could lead to a cumbersome experience for users who rely on magnification to read content.
+timestamps: '00:09:25.400 --> 00:10:02.120'
+
+issue_title: Loss of Mouse Pointer
+description: Sheetal mentioned losing track of the mouse pointer while navigating the page, which was mitigated by hover effects that changed the color of interactive elements. This suggests that there may be an issue with the visibility or distinguishability of the mouse pointer for magnification users.
+timestamps: '00:11:41.930 --> 00:11:47.240'
+
+issue_title: Unlabeled Icons
+description: Sheetal reported that the icons on the page were not labeled, which could be problematic as she relies on labels that appear when hovering the mouse over them. She suggested that adding labels to the icons would be beneficial.
+timestamps: '00:13:42.000 --> 00:13:49.080'
+

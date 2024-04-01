@@ -1,0 +1,4 @@
+issue_title: Voice Command Recognition Inaccuracy
+description: Tariel experienced issues with the voice command recognition where the system misinterpreted the command 'click introduction to accessibility' as 'swarm' and 'score'. This required Tariel to resort to using the mouse click command to proceed, indicating a problem with voice command accuracy and recognition.
+timestamps: '00:03:43.420 --> 00:04:05.320'
+

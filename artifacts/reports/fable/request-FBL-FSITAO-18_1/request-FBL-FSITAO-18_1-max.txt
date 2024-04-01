@@ -1,0 +1,4 @@
+issue_title: Image and Text Clarity at High Magnification
+description: The tester reported that at 500% magnification, the image of the badge becomes blurry, and the 'download' text also appears blurry. This indicates a need for higher resolution images and clearer font rendering at high levels of magnification to ensure readability and visual clarity for magnification users.
+timestamps: '00:07:06.980 --> 00:07:11.500', '00:07:23.920 --> 00:07:30.129'
+

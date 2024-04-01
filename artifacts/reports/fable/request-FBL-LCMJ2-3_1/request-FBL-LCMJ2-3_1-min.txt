@@ -1,0 +1,24 @@
+issue_title: Voice commands not working as expected
+description: Hassan encountered issues with the voice command 'show links' not working as expected. He had to resort to alternative methods like dividing the screen into a grid to pinpoint the clickable area, which is a more cumbersome method.
+timestamps: '00:01:44.520 --> 00:01:45.860', '00:01:57.120 --> 00:01:58.520', '00:02:27.570 --> 00:02:28.850', '00:04:08.230 --> 00:04:09.630'
+
+issue_title: Difficulty interacting with video controls
+description: Hassan struggled to interact with video controls using voice commands. The controls would disappear after hovering over the video, making it difficult to bring them back up with the 'show links' command. He suggests that the controls should always be visible to facilitate voice interaction.
+timestamps: '00:04:49.470 --> 00:05:03.049', '00:06:16.080 --> 00:06:29.500'
+
+issue_title: Video Full Screen Exit Issue
+description: Hassan reports that when exiting full-screen mode on a video by saying 'press escape,' the page scrolls back to the top rather than staying focused on the video. This makes it difficult to navigate back to the video using voice commands alone, as the mouse cursor may not be hovering over the video after exiting full screen.
+timestamps: '00:08:05.250 --> 00:08:56.919'
+
+issue_title: Video Control Accessibility
+description: Hassan found that the video controls disappear after a few seconds, which makes it difficult to use voice commands to interact with them. He suggests that keeping the controls visible for a longer period would be helpful, as he had to memorize the numbers corresponding to the controls to interact with them using voice commands.
+timestamps: '00:10:53.800 --> 00:11:39.100'
+
+issue_title: Voice commands not working as expected
+description: Hassan experienced issues with voice commands not working as expected. Despite multiple attempts to use the 'show links' command, it seems that the command did not always work, leading Hassan to resort to using the 'mouse grid' and other commands to navigate, which is more cumbersome.
+timestamps: '00:13:42.650 --> 00:13:43.940', '00:14:04.190 --> 00:14:05.470', '00:14:20.510 --> 00:14:21.750', '00:14:43.330 --> 00:14:45.080', '00:16:19.430 --> 00:16:20.730', '00:17:01.510 --> 00:17:02.810', '00:17:23.530 --> 00:17:24.819', '00:18:55.590 --> 00:18:56.860'
+
+issue_title: Controls Disappear Too Quickly for Voice Control Users
+description: Hassan reported that the controls disappear after a certain amount of time, which can cause confusion for people using voice control. He suggests that the controls should either be permanent or should not disappear too quickly to allow voice control users to easily turn them on or off at will.
+timestamps: '00:19:49.680 --> 00:20:06.260'
+

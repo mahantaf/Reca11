@@ -1,0 +1,44 @@
+issue_title: Dragon NaturallySpeaking Command Issues
+description: The user, Brandon, attempted to use voice commands such as 'wake up', 'click dashboard', and 'click cancel' with Dragon NaturallySpeaking, but the commands did not work as expected. This indicates that the software may not be properly recognizing or responding to voice commands from Dragon NaturallySpeaking, which can hinder the ability of users who rely on voice navigation to interact with the application.
+timestamps: '00:18:20.400 --> 00:18:25.259', '00:18:56.890 --> 00:18:57.990', '00:19:07.640 --> 00:19:08.920', '00:19:11.210 --> 00:19:12.420', '00:19:13.060 --> 00:19:14.490', '00:19:15.170 --> 00:19:16.620', '00:19:21.380 --> 00:19:22.630'
+
+issue_title: Voice Commands Not Working as Expected
+description: The tester, Kristen, attempted to use voice commands such as 'click products' and 'click table engage' to navigate the application but encountered issues where the commands did not perform the expected actions. This indicates a problem with voice command recognition and navigation, which can significantly hinder the usability for users relying on voice navigation.
+timestamps: '00:24:04.290 --> 00:24:05.649', '00:24:06.600 --> 00:24:08.039', '00:24:11.130 --> 00:24:12.390', '00:24:46.690 --> 00:24:48.039', '00:24:50.330 --> 00:24:52.840', '00:24:58.070 --> 00:24:59.350', '00:25:00.590 --> 00:25:02.420', '00:25:04.340 --> 00:25:06.290', '00:25:10.960 --> 00:25:12.350', '00:25:14.800 --> 00:25:16.320'
+
+issue_title: Difficulty Accessing Drop-Down Menus
+description: Kristen expressed uncertainty about how to access drop-down menus using Dragon NaturallySpeaking. This suggests that the interaction with drop-down elements may not be intuitive or well-supported for users with alternative navigation needs.
+timestamps: '00:26:47.470 --> 00:26:49.000'
+
+issue_title: Issues with Logged In Tooltip
+description: The tester, brand, mentioned having trouble with the 'logged in' part of the application. This could be related to the tooltip functionality not matching its expected behavior, causing confusion for users who rely on voice commands.
+timestamps: '00:27:48.770 --> 00:27:50.979'
+
+issue_title: Inconsistent Navigation with Voice Commands
+description: Brand experienced issues with navigating to his dashboard using voice commands. He mentioned that the command to click his name would take him back a few seconds instead of navigating to the intended location, indicating a problem with the voice command functionality.
+timestamps: '00:28:01.950 --> 00:28:04.399'
+
+issue_title: Voice commands not recognized
+description: The user experienced difficulty with the voice command 'show links' not being recognized by the software, which is an issue as it prevents efficient navigation using voice commands.
+timestamps: '00:28:47.440 --> 00:28:48.499', '00:28:53.410 --> 00:28:54.740', '00:28:57.100 --> 00:28:58.480'
+
+issue_title: Inconsistent voice command recognition
+description: The user reported that the command to log out only worked on the second attempt, indicating inconsistent voice command recognition which can lead to user frustration and inefficiency.
+timestamps: '00:29:00.670 --> 00:29:02.059', '00:29:07.570 --> 00:29:08.990', '00:29:10.240 --> 00:29:21.649'
+
+issue_title: Difficulty dictating into form fields
+description: The user had trouble dictating directly into form fields, which is a significant barrier for users who rely on voice navigation to input data.
+timestamps: '00:32:22.310 --> 00:32:35.120', '00:32:49.650 --> 00:33:00.830', '00:33:05.370 --> 00:33:08.629'
+
+issue_title: Hover-only menus problematic
+description: The user described issues with hover-only menus that disappear when the cursor is moved away, which is problematic for users who rely on alternative navigation methods.
+timestamps: '00:34:33.960 --> 00:34:44.190', '00:34:47.199 --> 00:35:02.600'
+
+issue_title: Difficulty with Mouse Grid and Small Target Areas
+description: The user, Brand, expressed difficulty with using the mouse grid, which may take a few seconds to come up or be slower, indicating a usability issue for alternative navigation users. Additionally, Brand mentioned the precision required to interact with small target areas, which can be challenging and requires extra steps. This issue is related to the target size and the ability to easily activate controls, which is crucial for users relying on voice commands and alternative navigation methods.
+timestamps: '00:36:15.040 --> 00:36:21.049', '00:37:40.600 --> 00:37:50.239'
+
+issue_title: Inability to Drag with Speech Recognition Software
+description: Brand reported that the speech recognition software does not work well with dragging actions, which is a significant limitation for alternative navigation users who rely on voice commands to interact with software. This issue affects the user's ability to perform click-and-drag interactions, which are common in many applications.
+timestamps: '00:38:54.730 --> 00:39:03.020'
+

@@ -1,0 +1,16 @@
+issue_title: Dialogs Outside Viewport
+description: Sheetal expressed confusion when trying to activate elements that seemed clickable but did not provide any visual feedback. This indicates that dialogs or actions may be occurring outside of the magnified viewport, which Sheetal cannot see.
+timestamps: '00:05:26.290 --> 00:05:34.110'
+
+issue_title: Right-Aligned Elements
+description: Sheetal struggled to find activities on the page, which suggests that important elements may be right-aligned and thus outside of her magnified area of focus.
+timestamps: '00:05:26.290 --> 00:05:34.110'
+
+issue_title: Low Contrast Button States
+description: Sheetal had difficulty locating her mouse and mentioned that the color change on hover helped her to relocate it. This suggests that there may be low contrast between button states, making it hard for her to distinguish them without the hover effect.
+timestamps: '00:11:41.930 --> 00:11:47.240'
+
+issue_title: Icons Not Labeled
+description: Sheetal reported that the icons on the page were not labeled, which could be problematic as she relies on labels that appear when hovering over them with the mouse. She suggested that adding labels would be beneficial.
+timestamps: '00:13:42.000 --> 00:13:49.080', '00:13:50.990 --> 00:13:53.920'
+

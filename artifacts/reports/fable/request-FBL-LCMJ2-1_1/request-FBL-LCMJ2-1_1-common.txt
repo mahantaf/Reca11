@@ -1,0 +1,48 @@
+issue_title: Skip Link Does Not Move Focus Appropriately
+description: Andrew attempted to use the skip link to move focus to the main content, but despite the screen reader narrating as if focus had moved, the focus did not actually move. This left Andrew disoriented and required additional navigation to reach the intended content.
+timestamps: '00:01:20.830 --> 00:01:37.539'
+
+issue_title: Video Player Controls Disappear After Playing Video
+description: After activating the play button on a video, Andrew found that the controls for the video player disappeared, making it impossible to pause or interact with the video further. This is a significant issue as it prevents users from controlling the video playback, which could be necessary for various reasons such as taking a phone call.
+timestamps: '00:09:06.560 --> 00:09:23.069', '00:13:13.200 --> 00:13:27.359', '00:14:35.050 --> 00:14:50.299'
+
+issue_title: Inconsistent Navigation to Activity Sections
+description: Andrew experienced inconsistency when navigating to different sections of the course. At times, selecting a link did not lead to the expected activity, and instead, he was taken to an overview page. This inconsistency in navigation can cause confusion and hinder the learning process.
+timestamps: '00:05:27.610 --> 00:05:42.149'
+
+issue_title: Difficulty Accessing Video Transcript
+description: Andrew had to resort to using the video transcript as an alternative to the video player due to the disappearing controls. While the transcript is a useful feature, the need to rely on it because of the player's accessibility issues is not ideal.
+timestamps: '00:15:28.520 --> 00:15:50.169'
+
+issue_title: Repeated Reading of Bulleted Items
+description: Andrew experienced an issue where the screen reader repeatedly read the same bullet point multiple times as if they were separate items, which could indicate a problem with how the list items are structured or tagged.
+timestamps: '00:16:21.430 --> 00:16:38.859', '00:16:39.110 --> 00:16:42.080'
+
+issue_title: Inconsistent Heading Structure
+description: Andrew noticed that the heading structure was not consistent, which made it difficult to navigate the content using screen reader shortcuts. This inconsistency can lead to confusion and a lack of confidence in using the shortcuts.
+timestamps: '00:17:17.849 --> 00:17:27.369'
+
+issue_title: Lack of Instructions for Image Slider
+description: Andrew expressed confusion regarding the purpose and interaction with an image slider, indicating a lack of clear instructions or labels that explain what the user is supposed to do with the slider and images.
+timestamps: '00:21:08.530 --> 00:21:23.839', '00:21:24.130 --> 00:21:25.769'
+
+issue_title: Repeated Reading of Captcha Instruction
+description: The screen reader repeatedly read the instruction about completing a captcha multiple times, which could be due to improper tagging or structure of the list items.
+timestamps: '00:29:20.340 --> 00:29:40.000'
+
+issue_title: Unclear Module Completion Indicators
+description: Andrew was unsure if he had completed a module due to a lack of clear indicators such as a quiz or a distinct pause point. He felt as though he was just in another portion of the same module, which made it difficult to understand his progress.
+timestamps: '00:32:53.060 --> 00:33:15.529'
+
+issue_title: Video Player Controls Inaccessible
+description: Andrew reported a bug with video player controls where, after playing a video, JAWS could not detect the player controls, requiring him to refresh the page or move on to the next lesson to stop the video.
+timestamps: '00:35:01.220 --> 00:35:17.170'
+
+issue_title: Screen reader focus issues
+description: Andrew mentioned that after refreshing the page, the screen reader's focus was on the play button, but he expected it to be at the top of the page. This unexpected focus placement can disorient users.
+timestamps: '00:19:20.490 --> 00:19:30.799'
+
+issue_title: Inconsistent Heading Structure
+description: Andrew expressed confusion due to inconsistent heading structures, which made it difficult to determine if he was in the final section of the module or just another part of it. He expected a clear indication, such as a quiz or a distinct pause point, to signify the end of a module.
+timestamps: '00:31:43.730 --> 00:31:45.070', '00:32:53.060 --> 00:33:15.529'
+

@@ -1,0 +1,8 @@
+issue_title: Confusion due to lack of clear navigation feedback
+description: Jennifer expressed confusion when trying to continue her course because the system did not provide clear feedback on what was completed and where she needed to go next. She expected to start at the beginning of the course but found herself at the end, which was not clearly communicated by the screen reader.
+timestamps: '00:04:47.720 --> 00:05:13.700', '00:05:14.170 --> 00:05:42.349'
+
+issue_title: Difficulty finding the 'Next' button
+description: Jennifer experienced difficulty in locating the 'Next' button to proceed in the course. She was unsure where to navigate after completing sections of the course, indicating a lack of intuitive navigation and potentially poor focus management.
+timestamps: '00:05:42.370 --> 00:06:04.370'
+

@@ -1,0 +1,56 @@
+issue_title: Difficulty Navigating Course Modules
+description: Cindy experienced confusion while trying to navigate the course modules. She struggled to understand the layout and what the checkmarks indicated, questioning whether the modules were completed or not. This confusion led to difficulty in determining where to start and how to proceed with the first module.
+timestamps: '00:03:22.440 --> 00:03:24.550', '00:04:12.900 --> 00:04:13.530', '00:04:49.640 --> 00:04:55.209', '00:05:24.180 --> 00:05:28.870'
+
+issue_title: Issues with Magnification and Layout Orientation
+description: Cindy had trouble finding the course title and orienting herself to the page layout due to the magnification. She had to zoom in and out multiple times to locate the title and understand the structure of the course content, indicating a lack of clear visual hierarchy and guidance for magnification users.
+timestamps: '00:01:12.170 --> 00:01:15.939', '00:01:27.630 --> 00:01:31.429', '00:02:07.880 --> 00:02:18.739'
+
+issue_title: Difficulty with Text Legibility in Bright Mode
+description: Cindy found it strenuous to read large amounts of text in bright mode due to the magnification and the bright white screen. She had to switch to dark mode to alleviate the strain on her eyes, suggesting that the default contrast and brightness settings were not comfortable for magnification users.
+timestamps: '00:09:12.680 --> 00:09:26.409'
+
+issue_title: Difficulty Identifying Videos
+description: Cindy initially mistook a video for an image due to the lack of clear indicators, only realizing it was a video when she noticed the play button and progress bar. This confusion could be mitigated by providing more distinct visual cues to differentiate videos from images, especially for users who rely on screen magnification and may not see the entire screen at once.
+timestamps: '00:10:22.990 --> 00:10:59.799'
+
+issue_title: Lack of Progress Indicators
+description: Cindy expressed difficulty in determining her progress through the module due to the absence of visible progress indicators. This made it challenging for her to pace herself through the content. Providing clear progress indicators would enhance the user experience for those using screen magnification, as they have a limited view of the interface at any given time.
+timestamps: '00:17:09.589 --> 00:17:26.810'
+
+issue_title: Low Contrast and Faint Text
+description: Cindy reported that the text in the survey section was really faint and difficult to read. She mentioned that she prefers the instruction to be bolder above the selection box because when it's faded out and small, it's more difficult and eye straining for her.
+timestamps: '00:25:39.670 --> 00:25:42.950', '00:25:44.040 --> 00:25:46.229', '00:26:00.940 --> 00:26:12.939'
+
+issue_title: Star Rating Graphic Accessibility
+description: Cindy found the star rating graphic in the survey section to be visually difficult to identify and read. She expressed a preference for a numerical representation over the star graphic, as the graphics are harder for her to count and identify as a rating.
+timestamps: '00:26:19.270 --> 00:26:23.149', '00:26:24.590 --> 00:26:57.040'
+
+issue_title: Small and Faint Text in Input Fields
+description: Cindy reported difficulty reading faint writing inside text boxes due to its small size, requiring her to zoom in significantly to see the text clearly.
+timestamps: '00:27:35.100 --> 00:27:44.659'
+
+issue_title: Unclear Module Progress Layout
+description: Cindy found the layout of the module progress unclear and not intuitive at first. She suggested that a numerical representation, such as 'step 6 of 12', would be more helpful than the current design.
+timestamps: '00:29:09.930 --> 00:30:43.700'
+
+issue_title: Difficulty Viewing Checkmarks and Titles Simultaneously
+description: Cindy struggled to see both the checkmarks indicating completed sections and the titles of those sections at the same time when zoomed in, due to the layout of the progress through the module.
+timestamps: '00:31:34.170 --> 00:32:01.519'
+
+issue_title: Lack of Clear Completion Indication
+description: Cindy expressed confusion at the end of the module due to the lack of a clear progress bar or completion page, leaving her uncertain if she had finished the module.
+timestamps: '00:35:05.980 --> 00:35:44.120'
+
+issue_title: Disorientation due to magnification
+description: Cindy experienced disorientation and confusion due to being zoomed in significantly, which made it difficult for her to understand where the main focus should be on the page and where to start. She initially focused on the left menu, not realizing that the module had automatically opened on the right side of the screen.
+timestamps: '00:37:13.840 --> 00:38:05.559'
+
+issue_title: Lack of numbering in progress sequence
+description: Cindy suggested that adding numbers to represent the sequence through the module would be helpful. She found it challenging to conceptualize her progress through the module when looking at the long list on the left side without numbers.
+timestamps: '00:38:11.780 --> 00:38:54.690'
+
+issue_title: Difficulty identifying completed sections
+description: Cindy had trouble figuring out which titles had a checkmark by them, indicating completed sections, due to her level of zoom.
+timestamps: '00:39:05.970 --> 00:39:11.029'
+

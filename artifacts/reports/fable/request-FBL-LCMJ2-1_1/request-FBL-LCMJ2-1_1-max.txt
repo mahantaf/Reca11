@@ -1,0 +1,52 @@
+issue_title: Ineffective Skip Link
+description: Andrew attempted to use a skip link to navigate to the main content, but despite the screen reader indicating a focus move, the actual focus did not move as expected. This left Andrew disoriented and required additional navigation to reach the intended content.
+timestamps: '00:01:20.830 --> 00:01:37.539'
+
+issue_title: Inconsistent Heading Structure
+description: Andrew encountered inconsistent heading structures which made it difficult to navigate the course content. This inconsistency led to confusion and required Andrew to use alternative navigation methods, which was inefficient and frustrating.
+timestamps: '00:01:37.670 --> 00:01:51.579', '00:10:34.770 --> 00:10:49.700'
+
+issue_title: Video Player Controls Disappear
+description: After activating the play button for a video, the controls disappeared, leaving Andrew unable to pause, stop, or interact with the video. This is a significant issue as it prevents users from controlling the video playback, which could be necessary for various reasons such as taking a call.
+timestamps: '00:09:06.560 --> 00:09:23.069', '00:14:35.050 --> 00:14:50.299'
+
+issue_title: Volume Control Not Announced
+description: When adjusting the volume control on the video player, the changes were not announced by the screen reader until Andrew stopped and used a specific command to read the line. This lack of immediate feedback can be disorienting and makes it difficult for users to adjust the volume to their preference.
+timestamps: '00:12:05.510 --> 00:12:15.290'
+
+issue_title: Repeated Reading of Bulleted Items
+description: Andrew experienced an issue where the screen reader seemed to read the same bullet multiple times as if they were separate items, which may indicate a problem with how the list items are structured or announced by the screen reader.
+timestamps: '00:16:21.430 --> 00:16:38.859', '00:16:39.110 --> 00:16:42.080'
+
+issue_title: Inconsistent Heading Structure
+description: Andrew noticed an inconsistent heading structure, which made it difficult to navigate the content using screen reader shortcuts. He had to verify whether certain text was tagged as headings, indicating a potential issue with the document structure.
+timestamps: '00:17:17.849 --> 00:17:27.369'
+
+issue_title: Video Player Control Accessibility
+description: Andrew reported that every time he hit play on a video, the controls seemed to disappear until he refreshed the page. This indicates a potential accessibility issue with the video player's integration, possibly with Vimeo.
+timestamps: '00:19:55.520 --> 00:20:00.980'
+
+issue_title: Lack of Instructions for Interactive Elements
+description: Andrew was confused about what to do with a slider and images, as there was no instruction provided. This lack of guidance on how to interact with these elements can be disorienting for screen reader users.
+timestamps: '00:21:08.530 --> 00:21:23.839'
+
+issue_title: Screen Reader Repeating Content
+description: Andrew encountered an issue where the screen reader was repeating content multiple times, particularly when instructing how to install a software. This could be due to improper markup or screen reader glitches.
+timestamps: '00:23:36.899 --> 00:23:48.890'
+
+issue_title: Difficulty Navigating Bulleted Lists
+description: Andrew mentioned that JAWS was able to detect the difference between sub-bullets in a list, which is positive, but the mention of this might indicate that there were previous issues navigating bulleted lists.
+timestamps: '00:31:15.390 --> 00:31:19.210'
+
+issue_title: Confusing Navigation and Lack of Clarity on Module Completion
+description: Andrew expressed confusion regarding the navigation and structure of the course content. He mentioned that the title 'Wrapping up' did not clearly indicate that it was the final section of the module, and there was no quiz or other element to signify the completion of the module. This left him feeling as if he was just in another part of the same module, rather than at the end of it.
+timestamps: '00:32:53.060 --> 00:33:15.529'
+
+issue_title: Inconsistent Heading Structure
+description: Andrew found it difficult to navigate using headings because the heading structure was inconsistent. He had to use the heading navigation feature multiple times to find the 'Getting Started with Web Development' section, indicating that the heading levels were not logically organized.
+timestamps: '00:33:49.000 --> 00:34:04.199'
+
+issue_title: Video Player Controls Inaccessible After Playing Video
+description: Andrew reported a bug with the video player controls. After playing a video, the controls seemed to disappear, making it impossible for JAWS to detect them. This required him to either refresh the page or move on to the next lesson to stop the video, which is not an ideal solution.
+timestamps: '00:35:01.220 --> 00:35:17.170'
+

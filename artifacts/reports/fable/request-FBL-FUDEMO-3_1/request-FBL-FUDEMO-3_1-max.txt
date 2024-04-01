@@ -1,0 +1,24 @@
+issue_title: Voice commands not recognized
+description: George encountered an issue where the voice command 'click start tour' and 'click get started' were not recognized by Dragon NaturallySpeaking, which led him to use the mouse grid command as an alternative. This indicates a problem with voice command recognition for certain interactive elements.
+timestamps: '00:03:19.070 --> 00:03:24.070', '00:03:29.410 --> 00:03:33.130', '00:03:36.020 --> 00:03:37.300', '00:03:48.950 --> 00:03:50.780', '00:03:54.520 --> 00:03:56.059'
+
+issue_title: Inconsistent voice command functionality
+description: George reported that he had to resort to using the mouse grid command because the voice commands were not consistently recognized, particularly when trying to interact with the 'get started' button. This inconsistency can be a significant barrier for users who rely on voice navigation.
+timestamps: '00:06:53.190 --> 00:07:14.259'
+
+issue_title: Difficulty with scrolling commands
+description: George experienced difficulty with scrolling commands, as indicated by his repeated attempts to scroll down and up. This suggests that the scrolling functionality may not be well optimized for voice command users.
+timestamps: '00:08:22.940 --> 00:08:27.530', '00:08:30.610 --> 00:08:32.280', '00:08:35.049 --> 00:08:37.520', '00:08:38.909 --> 00:08:40.080', '00:08:41.280 --> 00:08:42.809', '00:08:46.550 --> 00:08:47.859', '00:08:50.420 --> 00:08:55.410'
+
+issue_title: Voice command 'show links' not functioning
+description: The voice command 'show links' did not seem to work as expected for George, which could indicate an issue with the software's compatibility with Dragon NaturallySpeaking or a lack of proper voice command integration for link elements.
+timestamps: '00:03:59.370 --> 00:04:01.010', '00:08:50.420 --> 00:08:55.410', '00:09:00.410 --> 00:09:01.540', '00:09:08.430 --> 00:09:09.610'
+
+issue_title: Play Button Interference with Voice Commands
+description: George reported that the play button was a bit finicky and when the video played, the sound interfered with the voice commands he was trying to use. This issue affects the ability to control the application via voice commands when media is playing, which is particularly important for users who rely on assistive technologies like Dragon NaturallySpeaking.
+timestamps: '00:14:36.720 --> 00:14:47.719', '00:14:54.290 --> 00:15:21.789'
+
+issue_title: Inconsistent Voice Command Recognition
+description: George experienced inconsistency with the voice command recognition, particularly when trying to click the 'next activity' button. Sometimes the command was not comprehended, and he had to resort to using the mouse grid, which he found cumbersome and inconsistent.
+timestamps: '00:15:53.820 --> 00:15:56.160', '00:17:07.130 --> 00:17:19.179', '00:18:15.890 --> 00:18:37.449'
+

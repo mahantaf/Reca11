@@ -1,0 +1,44 @@
+issue_title: Repeated Misinterpretation of UI Elements
+description: The screen reader repeatedly misinterprets UI elements and reads out content in a confusing manner, making it difficult for the user to navigate and understand the structure of the application. The repeated phrases such as 'engage headings, landmarks, engage heading mana regions table' suggest that the screen reader is not providing clear and distinct information about different UI elements, which can lead to disorientation and difficulty in using the application effectively.
+timestamps: '00:00:54.380 --> 00:01:10.139', '00:01:38.900 --> 00:01:45.500', '00:02:06.790 --> 00:02:12.770', '00:02:13.700 --> 00:02:17.989', '00:02:18.000 --> 00:02:19.090', '00:02:19.750 --> 00:02:21.889', '00:02:26.210 --> 00:02:27.960', '00:02:28.020 --> 00:02:31.949', '00:02:31.980 --> 00:02:45.439', '00:04:24.180 --> 00:04:26.930', '00:04:27.160 --> 00:04:31.340', '00:04:34.320 --> 00:04:53.989', '00:04:54.040 --> 00:04:56.079', '00:08:46.550 --> 00:08:49.260', '00:09:11.380 --> 00:09:12.650', '00:09:20.920 --> 00:09:22.180', '00:09:23.450 --> 00:09:25.560', '00:09:28.190 --> 00:09:29.490', '00:09:32.900 --> 00:09:36.040', '00:09:36.330 --> 00:09:38.470', '00:10:11.140 --> 00:10:12.400', '00:10:31.150 --> 00:10:32.720', '00:11:11.260 --> 00:11:12.909', '00:11:36.320 --> 00:11:37.450', '00:11:37.960 --> 00:11:40.690', '00:11:40.700 --> 00:11:42.789', '00:12:27.880 --> 00:12:32.080', '00:12:32.380 --> 00:12:35.720', '00:13:04.420 --> 00:13:06.089', '00:13:06.840 --> 00:13:09.170', '00:13:11.520 --> 00:13:14.770'
+
+issue_title: Screen Reader Navigation Issues
+description: Geza, the tester, encountered issues with screen reader navigation. When navigating through headings, the screen reader cursor would jump to the top of the page after reaching the last heading, instead of continuing to the next focusable element. This behavior can be disorienting and inefficient for screen reader users who rely on a logical navigation order.
+timestamps: '00:27:13.900 --> 00:27:28.949'
+
+issue_title: Auto-Complete Interference
+description: The auto-complete feature was interfering with the screen reader's output, causing personal email addresses to pop up unexpectedly. This could potentially expose sensitive information and disrupt the user's workflow.
+timestamps: '00:21:05.980 --> 00:21:18.859'
+
+issue_title: Confusing Navigation and Labeling
+description: The user, Geza, experienced difficulty with the navigation and labeling of the application. The headings and regions were not clearly defined, causing confusion when navigating the page using the screen reader. The user had to rely on the 'Q' key to jump through regions, but it did not automatically read out the content underneath each region, which is not ideal for screen reader users who rely on a logical structure to understand the page content.
+timestamps: '00:31:02.200 --> 00:31:12.729', '00:31:28.310 --> 00:31:36.189', '00:32:12.900 --> 00:32:15.789', '00:33:04.400 --> 00:33:09.330', '00:36:36.100 --> 00:36:39.500', '00:37:08.200 --> 00:37:11.689', '00:37:44.830 --> 00:37:46.020', '00:38:02.400 --> 00:38:04.990', '00:39:04.100 --> 00:39:16.109', '00:40:36.100 --> 00:40:39.500', '00:40:57.360 --> 00:41:03.489', '00:42:32.460 --> 00:42:43.090'
+
+issue_title: Inconsistent Region Announcements
+description: Geza noted that when using the 'Q' key to navigate by regions, the screen reader did not automatically read out the content under each region. This inconsistency can lead to a lack of understanding of the page structure and content for users who are blind or have low vision, as they cannot visually scan the page to get an overview.
+timestamps: '00:37:08.200 --> 00:37:11.689', '00:37:44.830 --> 00:37:46.020', '00:38:02.400 --> 00:38:04.990', '00:39:04.100 --> 00:39:16.109', '00:40:36.100 --> 00:40:39.500', '00:40:57.360 --> 00:41:03.489', '00:42:32.460 --> 00:42:43.090'
+
+issue_title: Search Function Accessibility
+description: Geza encountered issues with the search function. The screen reader did not provide clear feedback when interacting with the search box and related buttons, which could lead to confusion and difficulty in performing searches.
+timestamps: '00:43:08.780 --> 00:43:22.289', '00:43:26.850 --> 00:43:40.999'
+
+issue_title: Search Functionality Accessibility Issue
+description: Geza encountered an issue with the search functionality. After performing a search, the screen reader did not announce the search results, nor did it automatically navigate to the results. This lack of feedback and navigation caused confusion and required additional effort to locate the search outcomes.
+timestamps: '00:47:53.600 --> 00:47:57.859', '00:48:00.320 --> 00:48:02.690'
+
+issue_title: Filter Function Accessibility Issue
+description: When applying filters, Geza noticed that the headings on the page disappeared, which made it difficult to navigate the filtered results. This issue forced Geza to read more details and rely on list navigation instead of heading navigation, which is less efficient.
+timestamps: '00:50:23.770 --> 00:50:38.890', '00:53:44.580 --> 00:53:48.590', '00:56:10.030 --> 00:56:23.510'
+
+issue_title: Inconsistent Navigation Experience
+description: Geza expressed a preference for navigating by headings rather than lists, as headings allow for faster navigation. However, the inconsistency in how items are presented (sometimes as headings, sometimes as lists) requires him to use different shortcut keys and slows down the navigation process.
+timestamps: '00:52:41.190 --> 00:52:42.489', '00:53:44.580 --> 00:53:48.590'
+
+issue_title: Unclear Button Labels
+description: Kristen reported an issue with button labels not being descriptive enough. She mentioned that if buttons for navigation like 'play', 'forward', or 'backward' are not labeled properly, it can be confusing because the screen reader just says 'button' without providing context on what the button does. This makes it difficult for her to know what action she is performing when clicking on a button.
+timestamps: '00:59:27.670 --> 00:59:53.289', '00:59:53.300 --> 00:59:58.120'
+
+issue_title: Loss of Filter Settings on Refresh
+description: Kristen and Geza discussed an issue where filter settings are lost upon refreshing the page. This requires the user to set up the filters again, which can be inconvenient and time-consuming.
+timestamps: '01:00:27.240 --> 01:00:33.480'
+

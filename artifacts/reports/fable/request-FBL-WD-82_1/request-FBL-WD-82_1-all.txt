@@ -1,0 +1,60 @@
+issue_title: Repeated Misinterpretation of UI Elements
+description: The screen reader repeatedly misinterprets UI elements, causing confusion. For example, it reads out 'engage headings, landmarks, engage heading mana regions table' multiple times, which seems to be a misinterpretation of the actual UI elements. This could lead to a lack of understanding of the page structure and difficulty in navigation for the user.
+timestamps: '00:00:54.380 --> 00:01:10.139', '00:01:38.900 --> 00:01:45.500', '00:02:06.790 --> 00:02:12.770', '00:04:24.180 --> 00:04:26.930', '00:08:46.550 --> 00:08:49.260'
+
+issue_title: Inconsistent Reading of Content
+description: The screen reader inconsistently reads content, sometimes repeating phrases like 'engage heading Stand residently join the depending level' without context, which could be disorienting for the user and make it difficult to follow the content structure.
+timestamps: '00:01:46.580 --> 00:01:55.160', '00:02:13.700 --> 00:02:17.989', '00:02:19.750 --> 00:02:21.889'
+
+issue_title: Difficulty in Locating and Activating Controls
+description: The user, Geza, expresses difficulty with controls, mentioning 'it's currently muted out to a button' multiple times, which suggests that the control's state or action is not clear, making it difficult for the user to understand and activate the control as intended.
+timestamps: '00:11:36.320 --> 00:11:37.450', '00:11:37.960 --> 00:11:40.690', '00:12:27.880 --> 00:12:32.080', '00:13:06.840 --> 00:13:09.170'
+
+issue_title: Confusing Navigation and Labeling
+description: Geza seems to be having difficulty with the navigation and labeling of the website. The screen reader is reading out a mix of labels, links, and headings, which can be confusing for a user relying on a screen reader. This confusion is evident when Geza is trying to orient himself on the website and when he is navigating through the headings. The issue is that the information is not presented in a clear and understandable sequence, making it difficult for Geza to form a mental model of the website's structure.
+timestamps: '00:19:27.540 --> 00:19:34.369', '00:19:34.960 --> 00:19:38.530', '00:19:38.620 --> 00:19:53.889', '00:20:12.610 --> 00:20:26.190', '00:26:06.600 --> 00:26:09.850', '00:26:10.100 --> 00:26:11.410', '00:27:13.900 --> 00:27:28.949', '00:28:56.249 --> 00:28:57.740', '00:30:18.800 --> 00:30:27.529'
+
+issue_title: Autocomplete Interference
+description: The autocomplete feature is interfering with Geza's experience. It is popping up with personal email addresses, which is not only a privacy concern but also a distraction for the screen reader user. This could potentially lead to the user accidentally selecting an unintended option from the autocomplete suggestions.
+timestamps: '00:21:05.980 --> 00:21:18.859', '00:23:03.440 --> 00:23:07.170'
+
+issue_title: Screen Reader Cursor Issues
+description: Geza reports that when navigating through the headings, the screen reader's pointer jumps to the top of the website, which can be disorienting and disrupt the flow of navigation. This behavior could cause a user to lose their place on the page and have to reorient themselves, which is inefficient and frustrating.
+timestamps: '00:27:13.900 --> 00:27:28.949'
+
+issue_title: Inconsistent Region Navigation
+description: Geza struggled with navigating the application using the region feature. The regions did not seem to be coded properly, as they did not start at the heading and did not automatically read out the content underneath each region. This made it difficult for Geza to understand the structure of the page and to navigate efficiently using the screen reader.
+timestamps: '00:36:36.100 --> 00:36:39.500', '00:37:08.200 --> 00:37:11.689', '00:37:44.830 --> 00:37:46.020', '00:38:02.400 --> 00:38:04.990', '00:38:53.320 --> 00:38:54.390', '00:39:04.100 --> 00:39:16.109', '00:40:36.100 --> 00:40:39.500', '00:40:57.360 --> 00:41:03.489', '00:41:35.670 --> 00:41:42.759', '00:42:32.460 --> 00:42:43.090'
+
+issue_title: Search Function Accessibility
+description: Geza encountered issues with the search function. They were able to navigate to the search box using the shortcut key, but it was not clear if the search function was working correctly or if the results were being displayed in an accessible manner. This indicates potential issues with the search functionality's accessibility and usability for screen reader users.
+timestamps: '00:43:08.780 --> 00:43:12.999', '00:43:26.850 --> 00:43:30.560', '00:43:31.240 --> 00:43:34.290', '00:43:38.160 --> 00:43:40.999', '00:43:53.050 --> 00:43:56.890', '00:44:11.140 --> 00:44:18.339'
+
+issue_title: Search Functionality Not Announcing Results
+description: Geza reported that after using the search functionality, the screen reader did not announce the search results or indicate that the search had been performed. This lack of feedback left the user uncertain if the search was successful or if the page had updated, as there was no jump to the search results or any auditory cue.
+timestamps: '00:47:53.600 --> 00:47:57.859', '00:48:00.320 --> 00:48:02.690'
+
+issue_title: Inconsistent Navigation with Headings and Lists
+description: Geza expressed a preference for navigating by headings, as it is faster than navigating by lists. However, after applying filters, the headings were no longer available, forcing the user to navigate by lists, which required reading more details and was less efficient.
+timestamps: '00:53:18.490 --> 00:53:25.969', '00:53:44.580 --> 00:53:48.590', '00:54:02.290 --> 00:54:03.290'
+
+issue_title: Filter Function Removes Headings
+description: After applying filters, the headings that were previously available disappeared, which hindered the user's ability to navigate the page effectively. This issue suggests a problem with the filter function that needs to be addressed to maintain accessibility.
+timestamps: '00:54:02.290 --> 00:54:03.290', '00:54:36.770 --> 00:54:47.789'
+
+issue_title: Unclear Button Labels
+description: Kristen reports that the buttons on the application are not labeled clearly. She mentions that if the buttons are for navigation or other functions like play, forward, or backward, it's problematic if they are not properly labeled. This makes it difficult for her to know what action she is performing when clicking on them, which is especially challenging for screen reader users.
+timestamps: '00:59:27.670 --> 00:59:53.289', '00:59:53.300 --> 00:59:58.120'
+
+issue_title: Loss of Filter Settings on Refresh
+description: Kristen and Geza discuss an issue where filter settings are lost upon refreshing the page. This requires the user to set up the filters again, which can be frustrating and time-consuming, particularly for users who rely on assistive technologies to navigate and interact with the application.
+timestamps: '01:00:27.240 --> 01:00:33.480'
+
+issue_title: Invalid Form Input Feedback
+description: Geza encounters an issue where the form does not accept the email address entered, despite it being formatted correctly. This indicates a problem with the form validation or the error messaging, which is not providing clear feedback to the user on what the issue is or how to resolve it.
+timestamps: '00:24:25.900 --> 00:24:33.739', '00:24:39.700 --> 00:24:47.070'
+
+issue_title: List Navigation Versus Heading Navigation
+description: Geza expressed a preference for navigating by headings rather than lists, as headings allow for faster navigation. However, the application sometimes required navigation by lists, which necessitated reading more details and slowed down the process.
+timestamps: '00:52:41.190 --> 00:52:59.790'
+
