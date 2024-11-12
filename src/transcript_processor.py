@@ -1,8 +1,6 @@
 import re
 import webvtt
 
-output_folder = "/Users/sujoy/Documents/Reca11/Reca11-Prototype/outputs/"
-
 
 class SpeechSegment:
     def __init__(self, start_time, end_time, speaker, text):

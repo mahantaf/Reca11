@@ -5,7 +5,7 @@ import context_reader
 import executor
 import transcript_processor as tp
 import utility as util
-from src import report_selection
+from Reca11.src import report_selection
 
 
 def get_chunk_size(transcript_segments, max_caption_number):
@@ -14,7 +14,7 @@ def get_chunk_size(transcript_segments, max_caption_number):
     last_len = total_captions % max_caption_number
 
     final_len = max_caption_number
-    if chunk_num > 1 and last_len < max_caption_number/3:
+    if chunk_num > 1 and last_len < max_caption_number / 3:
         padding = math.ceil(last_len / (chunk_num - 1))
         final_len += padding
 
@@ -52,7 +52,7 @@ def remove_last_blank_line(s):
 
 def run_reca11():
     projects = ['money manager', 'goose sighting', 'fable']
-    chunk_num = 100
+    caption_num = 100  # the number of captions per chunk
 
     for project in projects:
         directory = os.path.join('../artifacts/transcripts', project)
@@ -60,31 +60,43 @@ def run_reca11():
         for file in sorted(os.listdir(directory)):
 
             filepath = os.path.join(directory, file)
+            session = file.replace('.vtt', '')
 
+            # for each session in each project, we analyze the transcript and create chunks of the transcript in SpeachSegment objects
             transcript_segments = tp.extract_segments_from_transcript(filepath)
-            caption_chunks = get_caption_chunks(transcript_segments, chunk_num)
+            caption_chunks = get_caption_chunks(transcript_segments, caption_num)
 
             print(f"{project} > {file}")
 
             reports = {}
-            for i in range(1):
+            run_num = 5
+
+            # now we feed the llm these chunks 'run_num' number of times
+            for i in range(run_num):
+
+                # we extract all the relevant contextual information to add to the prompt
                 context_string = context_reader.get_all_context_string(project, file)
                 print(context_string)
 
-                all_result_strs = ""
                 total_tokens = 0
                 current_report = []
 
+                # we iterate through all the chunks, run the llm with the prompt, where prompt = chunk + contextual info
                 for iteration, chunk in enumerate(caption_chunks):
                     token_count, result = executor.run_model(chunk, context_string)
-                    current_report.extend(result)
+
+                    # results from individual chunks are collected into one collection
+                    current_report.extend(result.issues)
                     total_tokens += token_count
 
-                reports[i+1] = current_report
+                print(current_report)
+                reports[i] = current_report
 
-            report_selection.run_report_selection(reports)
-            break
-        break
+            # from the multiple runs, we conduct report selection and generate the final report
+            report_selection.select_and_print_report(reports, session, project)
+
+            break  # comment out break to analyze all sessions in a project
+        break  # comment out break to analyze all projects
 
 
 if __name__ == '__main__':
